@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: luma-service
+  #Spring Boot Admin Dashboard
+  boot:
+    admin:
+      client:
+        enabled: false
+  # Spring Config Service
+  cloud:
+    config:
+      uri:
+
+security:
+  jwt:
+    signing:
+      key: signingKey
