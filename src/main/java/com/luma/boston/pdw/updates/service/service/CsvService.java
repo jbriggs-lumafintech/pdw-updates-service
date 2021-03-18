@@ -1,5 +1,6 @@
 package com.luma.boston.pdw.updates.service.service;
 
+import lombok.CustomLog;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;
 import org.springframework.stereotype.Service;
@@ -10,6 +11,7 @@ import java.io.IOException;
 import java.util.List;
 
 @Service
+@CustomLog
 public class CsvService {
 
     public List<CSVRecord> readCsv(File file) {
@@ -17,7 +19,7 @@ public class CsvService {
             var csv = CSVFormat.EXCEL.withFirstRecordAsHeader().parse(fileReader);
             return csv.getRecords();
         } catch (IOException e) {
-            System.out.println("\n\n**************** Yo shit is broke ****************.\n\n");
+            log.error("\n\n**************** Things broke ****************.\n\n");
             e.printStackTrace();
             throw new RuntimeException(e);
         }
@@ -28,7 +30,7 @@ public class CsvService {
             var csv = CSVFormat.EXCEL.withFirstRecordAsHeader().parse(fileReader);
             return csv.getHeaderNames();
         } catch (IOException e) {
-            System.out.println("\n\n**************** Yo shit is broke ****************.\n\n");
+            log.error("\n\n**************** Things broke ****************.\n\n");
             e.printStackTrace();
             throw new RuntimeException(e);
         }
