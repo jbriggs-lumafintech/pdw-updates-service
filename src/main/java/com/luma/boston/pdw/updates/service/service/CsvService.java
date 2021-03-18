@@ -19,7 +19,7 @@ public class CsvService {
             var csv = CSVFormat.EXCEL.withFirstRecordAsHeader().parse(fileReader);
             return csv.getRecords();
         } catch (IOException e) {
-            log.error("\n\n**************** Things broke ****************.\n\n");
+            log.error("**************** Things broke ****************.");
             e.printStackTrace();
             throw new RuntimeException(e);
         }
@@ -30,7 +30,7 @@ public class CsvService {
             var csv = CSVFormat.EXCEL.withFirstRecordAsHeader().parse(fileReader);
             return csv.getHeaderNames();
         } catch (IOException e) {
-            log.error("\n\n**************** Things broke ****************.\n\n");
+            log.error("**************** Things broke ****************.");
             e.printStackTrace();
             throw new RuntimeException(e);
         }
