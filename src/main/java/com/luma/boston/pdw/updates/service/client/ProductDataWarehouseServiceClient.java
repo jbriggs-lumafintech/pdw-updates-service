@@ -28,7 +28,7 @@ public interface ProductDataWarehouseServiceClient {
     Page<CanonicalProduct> getProducts(Pageable pageable);
 
     @PutMapping(value = "/products")
-    ResponseEntity updateProduct(@RequestBody CanonicalProduct productUpdate);
+    ResponseEntity<CanonicalProduct> updateProduct(@RequestBody CanonicalProduct productUpdate);
 
     @PostMapping("/products/v2/searchCriteria")
     Page<CanonicalProduct> getProductsBySearchCriteria(@RequestBody SearchOptions searchOptions,

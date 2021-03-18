@@ -2,6 +2,7 @@ package com.luma.boston.pdw.updates.service;
 
 import com.luma.boston.pdw.updates.service.service.CsvService;
 import com.luma.boston.pdw.updates.service.service.ProductsService;
+import lombok.CustomLog;
 import lombok.SneakyThrows;
 import org.apache.commons.csv.CSVRecord;
 import org.springframework.beans.factory.annotation.Value;
@@ -19,6 +20,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
+import java.util.concurrent.atomic.AtomicInteger;
 
 @SpringBootApplication(exclude = { DataSourceAutoConfiguration.class, RabbitAutoConfiguration.class })
 public class PdwUpdatesServiceApplication {
@@ -28,6 +30,7 @@ public class PdwUpdatesServiceApplication {
 	}
 
 	@Component
+	@CustomLog
 	static class Runner implements ApplicationListener<ApplicationReadyEvent> {
 
 		private final ProductsService productsService;
@@ -64,8 +67,10 @@ public class PdwUpdatesServiceApplication {
 				// Update fields - this will need to change based on the field(s) in the CSV
 				var structureNameInteral = String.valueOf(recordFieldsValuesMap.get("productGeneral.structureNameInternal"));
 				product.getProductGeneral().setStructureNameInternal(structureNameInteral);
+
 				// Save back to PDW
-				productsService.save(product);
+				var updatedProduct = productsService.save(product);
+				log.info("Updated product with productId {} successfully.", updatedProduct.getProductId());
 			});
 		}
 

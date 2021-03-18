@@ -11,6 +11,7 @@ import org.apache.commons.lang3.ObjectUtils;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Service;
+import org.springframework.web.client.HttpClientErrorException;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -52,11 +53,13 @@ public class ProductsService {
         return canonicalProducts;
     }
 
-    @SuppressWarnings("unchecked")
-    public void save(CanonicalProduct canonicalProduct) {
-        var response = productDataWarehouseServiceClient.updateProduct(canonicalProduct);
-
-        log.info("Received {} from PDW on save.", response.getStatusCode());
+    public CanonicalProduct save(CanonicalProduct canonicalProduct) {
+        try {
+            return productDataWarehouseServiceClient.updateProduct(canonicalProduct).getBody();
+        } catch (HttpClientErrorException e) {
+            log.error("Error saving product with productId {}", canonicalProduct.getProductId());
+            throw new RuntimeException(e);
+        }
     }
 
     private SearchOptions withSearchOperations(Set<String> ids) {
