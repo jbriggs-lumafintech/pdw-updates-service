@@ -1,39 +1,10 @@
 spring:
   application:
-    name: luma-service
-  profiles:
-    include:
-      - ${KUBERNETES_NAMESPACE:local}
+    name: pdw-updates-service
   cloud:
     config:
-      failfast: true
-      uri: http://config-service:${CONFIG_SERVICE_SERVICE_PORT:8888}
+      enabled: false
   servlet:
     multipart:
       maxFileSize: -1
       maxRequestSize: -1
-
-health:
-  config:
-    enabled: false
-
-feign:
-  client:
-    config:
-      default:
-        connectTimeout: 5000
-        readTimeout: 5000
-
----
-spring:
-  profiles: ide
-  cloud:
-    config:
-      uri: http://localhost:8888
-
-ribbon:
-  eureka:
-    enabled: false
-
-server:
-  port: 8080

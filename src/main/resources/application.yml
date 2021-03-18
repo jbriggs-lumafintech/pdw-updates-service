@@ -1,0 +1,124 @@
+health:
+  config:
+    enabled: false
+jasypt:
+  encryptor:
+    algorithm: PBEWithMD5AndDES
+    password: luma$ecrets
+  hystrix:
+    enabled: true
+security:
+  authService:
+    service: ${auth-service.url}
+    endpoints:
+      authorize: ${security.authService.service}/oauth/authorize
+      checkToken: ${security.authService.service}/oauth/check_token
+      token: ${security.authService.service}/oauth/token
+      userInfo: ${security.authService.service}/oauth/user/me
+  jwt:
+    signing:
+      key: ENC(Y5IuqYUatmgp2kZp8Prf6Q+bsgSecTUtrP3CYkPekxqVleeepstwUA==)
+  oauth2:
+    # Special OAuth2 scope for the DataSynchronization service
+    scope:
+      dataSyncScope: datasync
+    # Client Credentials properties for Inter Service requests
+    # (Service to Service requests not on behalf of an end user)
+    interservice:
+      clientId: interService
+      clientSecret: ENC(7b0QAu+ppWvhrJd9jFjh0KaoFb4SEKCwDOKrX/AcHr6kqV7VDt3TvQ==)
+      accessTokenUri: ${security.authService.endpoints.token}
+      scope:
+        - serverclient
+    resource:
+      id: boston-resource
+      tokenInfoUri: ${security.authService.endpoints.checkToken}
+      preferTokenInfo: true
+server:
+  port: 8081
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 30000
+    "ProductDataWarehouseServiceClient#getProductsBySearchCriteria(SearchOptions, int, int, Collection)":
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 60000
+    "ProductDataWarehouseServiceClient#updateProduct(CanonicalProduct)":
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 10000
+ribbon:
+  eureka:
+    enabled: false
+logging:
+  level:
+    com:
+      luma:
+        pdw:
+          client:
+            ProductDataWarehouseServiceClient: TRACE
+#page-size-override: 1000
+
+# File to be parsed, includes products to update
+relative-csv-file:
+  path: 2021-03-17-test-product-updates.csv
+---
+spring:
+  profiles: ide
+gateway-service:
+  url: http://localhost:8080/api
+pdw-service:
+  url: http://localhost:9005 # Local in IDE
+auth-service:
+  url: ${gateway-service.url}/auth-service
+---
+spring:
+  profiles: dev
+gateway-service:
+  url: https://bdev.lumafintech.com/api
+pdw-service:
+  url: ${gateway-service.url}/pdw-service
+auth-service:
+  url: ${gateway-service.url}/auth-service
+---
+spring:
+  profiles: qa
+gateway-service:
+  url: https://bqa.lumafintech.com/api
+pdw-service:
+  url: ${gateway-service.url}/pdw-service
+auth-service:
+  url: ${gateway-service.url}/auth-service
+---
+spring:
+  profiles: uat
+gateway-service:
+  url: https://buat.lumafintech.com/api
+pdw-service:
+  url: ${gateway-service.url}/pdw-service
+auth-service:
+  url: ${gateway-service.url}/auth-service
+---
+spring:
+  profiles: staging
+gateway-service:
+  url: http://scg.staging.lumafintech.com/api
+pdw-service:
+  url: ${gateway-service.url}/pdw-service
+auth-service:
+  url: ${gateway-service.url}/auth-service
+---
+spring:
+  profiles: prod
+gateway-service:
+  url: https://api.lumafintech.com/api
+pdw-service:
+  url: ${gateway-service.url}/pdw-service
+auth-service:
+  url: ${gateway-service.url}/auth-service

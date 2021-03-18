@@ -1,4 +1,4 @@
-package com.luma.boston.service.config;
+package com.luma.boston.pdw.updates.service.config;
 
 import com.luma.security.feign.ribbon.LocalhostServersRibbonConfig;
 import org.springframework.cloud.netflix.ribbon.RibbonClients;
