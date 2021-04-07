@@ -36,6 +36,9 @@ security:
       preferTokenInfo: true
 server:
   port: 8081
+feign:
+  hystrix:
+    enabled: true
 hystrix:
   command:
     default:
@@ -65,9 +68,15 @@ logging:
             ProductDataWarehouseServiceClient: TRACE
 #page-size-override: 1000
 
-# File to be parsed, includes products to update
-relative-csv-file:
-  path: 2021-03-17-test-product-updates.csv
+# self-explanatory
+rederive-pdw-products:
+  true
+# set to true if pulling from CSV
+#pull-from-file:
+#  false
+# file to be parsed, includes products to update
+#relative-csv-file:
+#  path: 2021-04-01-prod-updates.csv
 ---
 spring:
   profiles: ide
@@ -108,7 +117,7 @@ auth-service:
 spring:
   profiles: staging
 gateway-service:
-  url: http://scg.staging.lumafintech.com/api
+  url: https://scg.staging.lumafintech.com/api
 pdw-service:
   url: ${gateway-service.url}/pdw-service
 auth-service:

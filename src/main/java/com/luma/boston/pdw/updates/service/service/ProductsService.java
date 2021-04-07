@@ -6,17 +6,21 @@ import com.luma.pdw.model.JunctionOperation;
 import com.luma.pdw.model.SearchCriteria;
 import com.luma.pdw.model.SearchOperation;
 import com.luma.pdw.model.SearchOptions;
+import com.netflix.hystrix.exception.HystrixRuntimeException;
 import lombok.CustomLog;
 import org.apache.commons.lang3.ObjectUtils;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Sort;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
-import org.springframework.web.client.HttpClientErrorException;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 @Service
 @CustomLog
@@ -30,11 +34,18 @@ public class ProductsService {
         this.pageSizeOverride = pageSizeOverride;
     }
 
+    public List<CanonicalProduct> retrieveProducts() {
+
+        return retrieveProducts(Set.of());
+    }
+
     public List<CanonicalProduct> retrieveProducts(Set<String> ids) {
         int page = 0;
-        var pageSize = ObjectUtils.firstNonNull(pageSizeOverride, ids.size());
-        Page<CanonicalProduct> canonicalProductsPage = productDataWarehouseServiceClient
-                .getProductsBySearchCriteria(withSearchOperations(ids), page, pageSize, Set.of("id"));
+        var getAllProducts = ids == null || ids.isEmpty();
+        var pageSize = ids != null && !ids.isEmpty() ? ObjectUtils.firstNonNull(pageSizeOverride, ids.size()) : 500;
+        Page<CanonicalProduct> canonicalProductsPage = getAllProducts
+                ? productDataWarehouseServiceClient.getProducts(PageRequest.of(page, pageSize, Sort.by("id")))
+                : productDataWarehouseServiceClient.getProductsBySearchCriteria(withSearchOperations(ids), page, pageSize, Set.of("id"));
 
         List<CanonicalProduct> canonicalProducts = new ArrayList<>(canonicalProductsPage.getContent());
         var hasNext = canonicalProductsPage.hasNext();
@@ -43,22 +54,44 @@ public class ProductsService {
             if (remainingElements > Integer.MAX_VALUE) {
                 throw new RuntimeException();
             }
-            var nextPageSize = remainingElements > pageSize ? pageSize : remainingElements;
-            var nextCanonicalProductsPage = productDataWarehouseServiceClient
-                    .getProductsBySearchCriteria(withSearchOperations(ids), ++page, (int) nextPageSize, Set.of("id"));
+            var nextCanonicalProductsPage = getAllProducts
+                    ? productDataWarehouseServiceClient.getProducts(PageRequest.of(++page, pageSize, Sort.by("id")))
+                    : productDataWarehouseServiceClient.getProductsBySearchCriteria(withSearchOperations(ids), ++page, pageSize, Set.of("id"));
+
             canonicalProducts.addAll(nextCanonicalProductsPage.getContent());
             hasNext = nextCanonicalProductsPage.hasNext();
+        }
+
+        var missingIds = ids.stream()
+                .filter(id -> !canonicalProducts.stream()
+                        .map(cp -> cp.getProductGeneral().getIsin())
+                        .collect(Collectors.toSet()).contains(id))
+                .collect(Collectors.toSet());
+        if (!getAllProducts) {
+            log.info("Retrieved {} products from PDW for {} ids.", canonicalProducts.size(), ids.size());
+            log.info("Products missing for the following ids: {}.", missingIds);
+        } else {
+            log.info("Retrieved {} products from PDW.", canonicalProducts.size());
         }
 
         return canonicalProducts;
     }
 
-    public CanonicalProduct save(CanonicalProduct canonicalProduct) {
+    public Optional<CanonicalProduct> save(CanonicalProduct canonicalProduct) {
+        ResponseEntity<CanonicalProduct> response = null;
         try {
-            return productDataWarehouseServiceClient.updateProduct(canonicalProduct).getBody();
-        } catch (HttpClientErrorException e) {
-            log.error("Error saving product with productId {}", canonicalProduct.getProductId());
-            throw new RuntimeException(e);
+            response = productDataWarehouseServiceClient.updateProduct(canonicalProduct);
+            var updatedProduct = response.getBody();
+            log.info("Updated product with cusip {}, isin {}, productId {} successfully.", updatedProduct.getProductGeneral().getCusip(),
+                    updatedProduct.getProductGeneral().getIsin(),
+                    updatedProduct.getProductId());
+            return Optional.of(updatedProduct);
+        } catch (HystrixRuntimeException e) {
+            log.error("Error saving product with cusip {}, isin {}, productId {}", canonicalProduct.getProductGeneral().getCusip(),
+                    canonicalProduct.getProductGeneral().getIsin(),
+                    canonicalProduct.getProductId());;
+            log.error("Exception: {}", e.getMessage());
+            return Optional.empty();
         }
     }
 

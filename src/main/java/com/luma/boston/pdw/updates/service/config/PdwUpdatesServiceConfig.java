@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Configuration;
 @EnableFeignSecuritySupport
 @EnableDefaultResourceServer
 @EnableFeignClients(basePackageClasses = ProductDataWarehouseServiceClient.class)
-public class LumaServiceConfig {
+public class PdwUpdatesServiceConfig {
 
     @Bean
     public Logger.Level feignLoggerLevel() {
