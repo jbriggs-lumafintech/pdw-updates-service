@@ -1,0 +1,938 @@
+﻿Production Year #,Production Month #,Symbol,ML Sec #,CUSIP,Trader
+2011,1,MLPCC,08ZA0,06052R625,Hippo Agkpo
+2011,1,NA,,313372GR9,
+2011,1,MLPCJ,08ZA2,06052R658,Hippo Agkpo
+2011,2,MLPCL,08ZA7,06052R781,Hippo Agkpo
+2011,3,MLRATE54,HIFR1,06048WFN5,
+2011,5,MLRATE56,HIH49,06048WGD6,
+2011,6,MLRATE57,HIJP2,06048WGJ3,
+2011,6,AGENCY11,HAXD5,3133746F2,
+2011,7,MLRATE59,HIKJ5,06048WGT1,
+2011,11,MLPFQ,08ZF7,06051P166 ,Simon Torjmane
+2011,12,MLPFR,08X05,06051P216,Simon Torjmane
+2012,1,MLRAB,HIPC1,06048WJZ4,Pat Anderson 
+2012,1,MLPHD,08ZG1,06051P414,Simon Torjmane
+2012,6,MLPGL,08ZI2,06051R436,Hippolyte Agkpo
+2012,7,MLPGG,08ZI7,06051R675,Hippolyte Agkpo
+2012,8,MLPGW,08ZJ0,06053D211,Hippolyte Agkpo
+2012,9,MLPJG,08ZJ4,06053D419,Hippolyte Agkpo
+2012,11,MLRAO,HHXL9,06048WNH9,Patrick Anderson 
+2012,12,MLRAP,HH2J0,06048WNK2,
+2012,12,MLRAQ,HH392,40432X5F4,Patrick Anderson 
+2013,6,MLRAU,HH6Y1,06048WNX4,Pat Anderson 
+2014,7,MLZHJ,67IP8,40434C188,Vicente Gil Mateo-Sasieta / Ben Barr
+2014,7,MLZHK,30QS2,40434A703,Shantanu Khare / Hippolyte Agkpo
+2014,8,MLZID,67IS3,40434A802,Vicente Gil Mateo-Sasieta / Ben Barr
+2014,8,MLZIA,21BJ7 ,06053M427,Andy Kirou / Nate Boroff
+2014,9,MLZIN,250W0,06053M518,Andy Kirou / Ross Mtangi
+2014,9,MLZIQ,67IU6,38147J102,Vicente Gil Mateo-Sasieta / Ben Barr
+2014,10,MLZJB,67IW0,38147J201,Shao Tyng Foo / Mickael Slomka
+2014,10,MLZJC,28A47,06053M534,Andy Kirou / Ross Mtangi
+2014,11,MLZJG,08ZN1,06053M674,Andy Kirou / Ross Mtangi
+2014,12,MLCDY,00BT8,38148J101,Youssef Boujemaoui / Thomas Eshaghi
+2014,12,MLZJV,08ZN2,22545F136,Andy Kirou / Ross Mtangi
+2015,1,MLZJX,00CF8,06053U106,Andy Kirou / Ross Mtangi
+2015,1,MLCHH,00CI9 ,38148J309,Youssef Boujemaoui / Thomas Eshaghi
+2015,2,MLCHJ,08ZN6,40434A885,Simon Torjmane / Hippolyte Agkpo
+2015,2,MLZKR,08ZN4,22539T431,Andy Kirou / John Taylor Garner
+2015,2,MLOMR,08ZN5,06053M864,Andy Kirou / John Taylor Garner
+2015,3,MLCHL,00DV7,40434A877,Simon Torjmane / Hippolyte Agkpo
+2015,3,MLZLA,00DK8,06053W169,Andy Kirou / John Taylor Garner
+2015,4,MLBCQ,08ZN8,40434G775,Shao Tyng Foo / Mickael Slomka
+2015,5,MLCHM,30RN4,38148J408,Youssef Boujemaoui / Thomas Eshaghi
+2015,5,MLBDA,08ZN9,06053W359,Andy Kirou / John Taylor Garner
+2015,6,MLZNJ,08ZO0,06053W458,Andy Kirou / John Taylor Garner
+2015,7,MLCHN,67AK1,38148J507,Shao Tyng Foo / Mickael Slomka
+2015,7,MLZOC,67AD1 ,25156D522,Shantanu Khare / Hippolyte Agkpo
+2015,8,MLONR,08MN4,25190J386,Shantanu Khare / Hippolyte Agkpo
+2015,8,MLONT,67IX1,25156D431,Shantanu Khare / Hippolyte Agkpo
+2015,8,MLONS,67D83,25156D449,Shantanu Khare / Hippolyte Agkpo
+2015,8,MLTOU,08ZO3,06053W649,Andy Kirou / John Taylor Garner
+2015,8,MLZOP,67G90,25156D464,Shantanu Khare / Hippolyte Agkpo
+2015,8,MLZOT,08ZO2,06053W631,Andy Kirou / John Taylor Garner
+2015,8,MLCHO,39GX9,40434A869,Shao Tyng Foo
+2015,8,MLZOR,08ZO1,06053W623,Andy Kirou / John Taylor Garner
+2015,9,MLZPI,08ZO4,06053W730,Shao Tyng Foo
+2015,9,MLTRM,250M1,25190J345,Andy Kirou / John Taylor Garner
+2015,10,MLTRN,250O0,25156D423,Andy Kirou / John Taylor Garner
+2015,10,MLZPV,250P0,06053W888,Andy Kirou / John Taylor Garner
+2015,10,MLONW,67I20,25190J311,Shantanu Khare / Hippolyte Agkpo
+2015,10,MLONX,67I21,25156D415,Mickael Slomka
+2015,10,MLCHR,67IZ7,40434A851,Youssef Boujemaoui / Thomas Eshaghi
+2015,10,MLTRV,250P2,06053Y108,Andy Kirou / John Taylor Garner
+2015,11,MLTSF,08MF1,06053Y215,Andy Kirou / John Taylor Garner
+2015,11,MLCHS,67I29,40434A844,Youssef Boujemaoui / Thomas Eshaghi
+2015,12,MLTTF,08RA5,136069291,Andy Kirou / John Taylor Garner
+2015,12,MLZQQ,08ZO6,40434K354,Andy Kirou / John Taylor Garner
+2016,1,MLOOE,13C33,40434E168,Shantanu Khare / Hippolyte Agkpo
+2016,1,MLZRL,08ZO7,40434E 267,Andy Kirou / John Taylor Garner
+2016,1,MLZRS,67I56 ,40434E 234,Shantanu Khare / Hippolyte Agkpo
+2016,1,MLZRT,08RD6,13606M201,Philippe Trouve / Tyler Foote
+2016,2,MLZSA,08ZO8,40434E 131,Andy Kirou / John Taylor Garner
+2016,2,MLOOH,08ZO9,40434N820,Simon Torjmane / Alex Micalizzi
+2016,2,MLZSE,08RH2,40434N861,Shantanu Khare / Hippolyte Agkpo
+2016,2,MLZRZ,28AF0,40434N853,Shantanu Khare / Hippolyte Agkpo
+2016,2,MLOOL,67I99,40434N580,Shantanu Khare / Hippolyte Agkpo
+2016,3,MLZST,67I98,22547V600,Shantanu Khare / Hippolyte Agkpo
+2016,3,MLZSS,08ZP0,40434N663,Andy Kirou / John Taylor Garner
+2016,4,MLCHU,28AH4 ,40431U108,Andy Kirou / John Taylor Garner
+2016,4,MLZTC,67F65,22549H104,Shantanu Khare / Hippolyte Agkpo
+2016,5,MLOOV,669O3,40434N119,Shantanu Khare / Hippolyte Agkpo
+2016,5,MLZTG,08ZP1,40434N283,Andy Kirou / John Taylor Garner
+2016,5,MLZTK,67G25,40434N259,Shantanu Khare / Hippolyte Agkpo
+2016,7,MLZUN,67FT8,40434V814,Shantanu Khare / Hippolyte Agkpo
+2016,7,MLTYB,28AS3 ,13607R761,Andy Kirou / John Taylor Garner
+2016,7,MLZUZ,67GT6,064160 732,Shantanu Khare / Hippolyte Agkpo
+2016,7,MLZUI,08ZP2,40434V780,Andy Kirou / John Taylor Garner
+2016,7,MLZUX,67ED4,64160757,Shantanu Khare / Hippolyte Agkpo
+2016,7,MLOOY,67HB6,40434V442,Shantanu Khare / Hippolyte Agkpo
+2016,8,MLOPB,08ZP4,40435B106,Simon Torjmane / Alex Micalizzi
+2016,8,MLZVL,67JE3,40434V145,Shantanu Khare / Hippolyte Agkpo
+2016,8,MLZVK,67JC5,40434V277,Shantanu Khare / Hippolyte Agkpo
+2016,8,MLTZB,67JC0,40434V319,Andy Kirou / John Taylor Garner
+2016,8,MLZVO,28AT6,40434V244,Philippe Trouve / Tyler Foote
+2016,8,MLZVE,08ZP3,40434V293,Andy Kirou / John Taylor Garner
+2016,8,MLZVH,68EM4,22547V741,Shantanu Khare / Hippolyte Agkpo
+2016,9,MLOPE,67JG9,40435B858,Shantanu Khare / Hippolyte Agkpo
+2016,9,MLOPF,68EP5,40435B841,Shantanu Khare / Hippolyte Agkpo
+2016,9,MLZVY,68EP6,64160641,Shantanu Khare / Hippolyte Agkpo
+2016,9,MLZVX,68EN6,64160666,Shantanu Khare / Hippolyte Agkpo
+2016,9,MLZVU,08ZP5,40435B304,Andy Kirou / John Taylor Garner
+2016,9,MLZWC,67JH4,64160658,Shantanu Khare / Hippolyte Agkpo
+2016,9,MLZWB,67JF1,64160682,Shantanu Khare / Hippolyte Agkpo
+2016,9,MLOPC,08ZP6,40435B 783,Simon Torjmane / Alex Micalizzi
+2016,9,MLTBE,67JH7,40435B734,Andy Kirou / John Taylor Garner
+2016,9,MLTZZ,28AU9,40435B700,Andy Kirou / John Taylor Garner
+2016,9,MLOPH,67JH3,40435B759,Shantanu Khare / Hippolyte Agkpo
+2016,10,MLZWN,68ER9 ,64160591,Shantanu Khare / Hippolyte Agkpo
+2016,10,MLZWQ,67JJ0,40435B635,Shantanu Khare / Hippolyte Agkpo
+2016,10,MLTBW,28AW5,13607R621,Andy Kirou / Charles Wright
+2016,10,MLZWM,68ES4,40435B544,Shantanu Khare / Hippolyte Agkpo
+2016,11,MLZXA,67JM0,40435B338,Shantanu Khare / Hippolyte Agkpo
+2016,11,MLOPO,67JM9,40435B296,Shantanu Khare / Hippolyte Agkpo
+2016,11,MLTCM,67JL0,40435B429,Andy Kirou / Charles Wright
+2016,11,MLZWZ,68ES1,40435B437,Shantanu Khare / Hippolyte Agkpo
+2016,11,MLZWX,67JL2,40435B411,Philippe Trouve / Tyler Foote
+2016,12,MLZXI,08ZP8,40435B247,Andy Kirou / Charles Wright
+2016,12,MLZXP,67JN7,06745R651,Shantanu Khare / Hippolyte Agkpo
+2016,12,MLZXL,68EU7,22547V584,Shantanu Khare / Hippolyte Agkpo
+2016,12,MLTDQ,67JO3,40435B239,Andy Kirou / Charles Wright
+2016,12,MLOPV,67JQ3,40435C708,Pierre-Alexandre Des Mazis
+2016,12,MLZXM,68EW1,22547V535,Shantanu Khare / Hippolyte Agkpo
+2016,12,MLZXQ,67JP5,06745R495,Shantanu Khare / Hippolyte Agkpo
+2017,1,MLZYC,67JR3,40435C849,Shantanu Khare / Hippolyte Agkpo
+2017,1,MLZXZ,68EX4,06745R412,Shantanu Khare / Hippolyte Agkpo
+2017,1,MLTFA,67JQ2,64160526,Andy Kirou / Charles Wright
+2017,1,MLOPZ,67JS4,25156D175,Youssef Boujemaoui / Thomas Eshaghi
+2017,2,MLZYS,67JU5,40435C187,Philippe Trouve / Tyler Foote
+2017,2,MLZYP,67JU2,40435C336,Shantanu Khare / Hippolyte Agkpo
+2017,2,MLTGD,21AV6,40435C385,Andy Kirou / Charles Wright
+2017,2,MLTFV,21AV7,97096267,Andy Kirou / Charles Wright
+2017,2,MLZYN,68EZ1,40435C393,Shantanu Khare / Hippolyte Agkpo
+2017,3,MLZZD,67JX9,40435D706,Shantanu Khare / Hippolyte Agkpo
+2017,3,MLZZC,67JV3 ,40435H806,Shantanu Khare / Hippolyte Agkpo
+2017,3,MLZZF,67JW0,06745T582,Philippe Trouve / Tyler Foote
+2017,3,MLTHF,21AW0,40435H814,Andy Kirou / Charles Wright
+2017,3,MLZYY,6.8E+19,06745T566,Shantanu Khare / Hippolyte Agkpo
+2017,3,MLZYZ,6.8E+47,06745T145,Shantanu Khare / Hippolyte Agkpo
+2017,4,MLZZU,67J00,40435D821,Philippe Trouve / Tyler Foote
+2017,4,MLZZO,6.8E+69,64160310,Shantanu Khare / Hippolyte Agkpo
+2017,4,MLZZQ,67JZ2,64160344,Shantanu Khare / Hippolyte Agkpo
+2017,4,MLTHU,21AZ6 ,97096390,Andy Kirou / Charles Wright
+2017,5,MLTKM,21A29 ,97096515,Andy Kirou / Charles Wright
+2017,5,MLUAG,669N8,06746K507,Shantanu Khare / Hippolyte Agkpo
+2017,5,MLUAF,67HF4,06746J377,Shantanu Khare / Hippolyte Agkpo
+2017,5,MLUAO,67HI1,25156D159,Mickael Slomka
+2017,5,MLUAC,67CZ4,40435D573,Shantanu Khare / Hippolyte Agkpo
+2017,5,MLUAB,661W8,40435D680,Shantanu Khare / Hippolyte Agkpo
+2017,5,MLTJT,28AV8,40435D698,Andy Kirou / Charles Wright
+2017,5,MLZZY,67HF8,40435D656,Philippe Trouve / Tyler Foote
+2017,5,MLUAQ,67HM1,22547V238,Philippe Trouve / Tyler Foote
+2017,6,MLTKO ,67HB5  ,97096549,Pierre-Alexandre Des Mazis
+2017,6,MLTKN,67HX8,64160229,Youssef Boujemaoui / Thomas Eshaghi
+2017,6,MLUAS,67HV1,40435D458,Philippe Trouve / Tyler Foote
+2017,6,MLUAW,661M3,40435D268,Shantanu Khare / Hippolyte Agkpo
+2017,6,MLUAV,67DQ9  ,40435D474,Shantanu Khare / Hippolyte Agkpo
+2017,6,MLTKK,28AX7,40435D466,Andy Kirou / Charles Wright
+2017,6,MLUBC,67GQ3,06746K465,Shantanu Khare / Hippolyte Agkpo
+2017,6,MLUBA,67HT6,06746K739,Shantanu Khare / Hippolyte Agkpo
+2017,6,MLUBI,67HY5,40435D441,Mickael Slomka
+2017,7,MLTLG,67J10 ,064160 120,Pierre-Alexandre Des Mazis
+2017,7,MLUBY,379W8,97096663,Shantanu Khare / Hippolyte Agkpo
+2017,7,MLTLI,069P2,25156D142,Stephen Comey / Jeremy Crow
+2017,7,MLUBP,67HZ8,64160161,Philippe Trouve / Tyler Foote
+2017,7,MLUBT,67H20,064160 153,Shantanu Khare / Hippolyte Agkpo
+2017,7,MLUBW,67HZ1,64160179,Mickael Slomka
+2017,7,MLOQP,669N3,06746L877,Mickael Slomka
+2017,7,MLUBR,67C15,64160146,Shantanu Khare / Hippolyte Agkpo
+2017,7,MLTLC,21AL8,97096622,Andy Kirou / Charles Wright
+2017,8,MLUCF,669W0,06746L653,Shantanu Khare / Hippolyte Agkpo
+2017,8,MLOQR,669Y6,06746L430,Mickael Slomka
+2017,8,MLTLZ,38UW8,94988U615,Pierre-Alexandre Des Mazis
+2017,8,MLUCI,669S3,40435G857,Mickael Slomka
+2017,8,MLTLU,250N5,97096671,Andy Kirou / Charles Wright
+2017,8,MLOQS,67AB2,40435G584,Mickael Slomka
+2017,8,MLUCD,67C72,40435G840,Shantanu Khare / Hippolyte Agkpo
+2017,8,MLUCN,67E41,40435G675,Shantanu Khare / Hippolyte Agkpo
+2017,8,MLUCL,08ZP9,40435G725,Andy Kirou / Charles Wright
+2017,9,MLVAS,250S8,97096788,Andy Kirou / Charles Wright
+2017,9,MLUDH,669U9,40435G568,Mickael Slomka
+2017,9,MLVAB,250P7,94988U599,Andy Kirou / Charles Wright
+2017,9,MLUDJ,67AT8,40435G238,Mickael Slomka
+2017,9,MLUDB,67FD0,06746M859,Shantanu Khare / Hippolyte Agkpo
+2017,9,MLUCY,67AP6,06746L216,Shantanu Khare / Hippolyte Agkpo
+2017,9,MLOQU,73LL9,40435G444,Simon Torjmane / Wen Xuan Lim
+2017,9,MLOQV,67AX4,40435G147,Mickael Slomka
+2017,9,MLOQT,38DD5,40435G428,Simon Torjmane / Wen Xuan Lim
+2017,9,MLUCU,67D54,06746L265,Shantanu Khare / Hippolyte Agkpo
+2017,9,MLUCV,67FA3,06746L190,Shantanu Khare / Hippolyte Agkpo
+2017,10,MLVBG,08MR6,97097109,Pierre-Alexandre Des Mazis
+2017,10,MLVBC,250T7,64161706,Andy Kirou / Charles Wright
+2017,10,MLUDW,67H32,64161821,Shantanu Khare / Hippolyte Agkpo
+2017,10,MLUDV,67A27,64161854,Shantanu Khare / Hippolyte Agkpo
+2017,10,MLUEA,67H46,64161797,Mickael Slomka
+2017,10,MLUDZ,67A24  ,64161870,Mickael Slomka
+2017,10,MLUEC,49M16,97096853,Shantanu Khare / Hippolyte Agkpo
+2017,10,MLUDS,67FG1,64161888,Shantanu Khare / Hippolyte Agkpo
+2017,10,MLUDR,67FG0,64161805,Shantanu Khare / Hippolyte Agkpo
+2017,11,MLVBV,30S15,97097216,Pierre-Alexandre Des Mazis
+2017,11,MLVBS,30S01,97097182,Pierre-Alexandre Des Mazis
+2017,11,MLVBU,30S10,97097190,Pierre-Alexandre Des Mazis
+2017,11,MLVBO,28AA3,40435H350,Andy Kirou / Charles Wright
+2017,11,MLUEL,67FJ0,06746M131,Shantanu Khare / Hippolyte Agkpo
+2017,11,MLUEN,67J22,40435H277,Shantanu Khare / Hippolyte Agkpo
+2017,11,MLUEP,67H72,40435H376,Mickael Slomka
+2017,11,MLOQZ,67J40,40435H111,Simon Torjmane / Wen Xuan Lim
+2017,11,MLOQY,67J23,40435H244,Mickael Slomka
+2017,11,MLORB,67J39,40435H129,Simon Torjmane / Wen Xuan Lim
+2017,11,MLUES,08ZQ0,97097166,Pierre-Alexandre Des Mazis
+2017,12,MLUFB,67J41,40435J208,Mickael Slomka
+2017,12,MLUEX,68DQ0,06746N493,Shantanu Khare / Hippolyte Agkpo
+2017,12,MLVCG,28AC8,94988U565,Andy Kirou / Charles Wright
+2017,12,MLUEZ,67J42,06746N485,Shantanu Khare / Hippolyte Agkpo
+2017,12,MLUFH,6.8E+74,64161722,Shantanu Khare / Hippolyte Agkpo
+2018,1,MLUFL,68E88,06746Q108,David Lucerne
+2018,1,MLUFP,67J64,40435J588,Mickael Slomka
+2018,1,MLVCW,28AD2,06746P878,Andy Kirou / Charles Wright
+2018,1,MLOSD,67J79,40435J513,Mickael Slomka
+2018,1,MLUFN,67J69,06746P787,Shantanu Khare / Hippolyte Agkpo
+2018,1,MLVDD,30S46,06746P597,Simon Torjmane / Wen Xuan Lim
+2018,2,MLUGH,67J98,40435J257,Mickael Slomka
+2018,2,MLVDT,28AE7,40435J380,Andy Kirou / Charles Wright
+2018,2,MLUGQ,68FB4,40435J174,Shantanu Khare / Hippolyte Agkpo
+2018,2,MLUGR,67KA1,40435J240,Shantanu Khare / Hippolyte Agkpo
+2018,2,MLUGT,38X68  ,40435J315,Pierre-Alexandre Des Mazis
+2018,2,MLOSE,67KA2,40435J182,Mickael Slomka
+2018,2,MLVDW,38X72,40435J117,Pierre-Alexandre Des Mazis
+2018,3,MLUHF,67KD7,64161532,Shantanu Khare / Tanner Di Lello
+2018,3,MLUHE,67KC9,64161557,Shantanu Khare / Tanner Di Lello
+2018,3,MLVEQ,28AJ5,94988U557,Andy Kirou / Charles Wright
+2018,3,MLUHB,68FH9,64161524,Shantanu Khare / Tanner Di Lello
+2018,3,MLUHA,67HM5,64161599,Shantanu Khare / Tanner Di Lello
+2018,3,MLOSJ,67KD2,40435M771,Simon Torjmane / Wen Xuan Lim
+2018,3,MLUHK,67KD9,40435M730,Mickael Slomka
+2018,3,MLUHJ,67KC8,40435M821,Mickael Slomka
+2018,3,MLVEW,38YB8,40435M755,Pierre-Alexandre Des Mazis
+2018,4,MLUID,68FI3,064161458,Shantanu Khare / Hippolyte Agkpo
+2018,4,MLUHT,49HX0,064161367,Liang Chen / Sun Oh Hahm
+2018,4,MLUHQ,49IT9,064161417,Liang Chen / Sun Oh Hahm
+2018,4,MLVFJ,28AY0,064161441,Andy Kirou / Charles Wright
+2018,4,MLUII,67KE4,097097471,Mickael Slomka
+2018,4,MLUIG,67KE1,064161482,Shantanu Khare / Hippolyte Agkpo
+2018,4,MLUHR,49OU3,064161391,Shantanu Khare / Hippolyte Agkpo
+2018,4,MLOSK,67KF5,40435M599,Shantanu Khare / Hippolyte Agkpo
+2018,5,MLUHX,67DW1,06746R239,Shantanu Khare / Hippolyte Agkpo
+2018,5,MLUHW,67CS0,06746R544,Shantanu Khare / Hippolyte Agkpo
+2018,5,MLUIU,49CF1,06746R494,Shantanu Khare / Hippolyte Agkpo
+2018,5,MLUIY,67GD6,22548Y694,Mickael Slomka
+2018,5,MLVGJ,250Q3,867914848,Andy Kirou / Charles Wright
+2018,5,MLOSL,67G16  ,40435M292,Mickael Slomka
+2018,5,MLUIV,08ZQ1,06746R338,Youssef Boujemaoui / Thomas Eshaghi
+2018,5,MLUIR,67G37,06746R262,Shantanu Khare / Hippolyte Agkpo
+2018,5,MLUIQ,67GL1,06746R452,Shantanu Khare / Hippolyte Agkpo
+2018,6,MLUJN,39G70,06746R171,Mickael Slomka
+2018,6,MLUJK,67HN9,06746T888,Shantanu Khare / Hippolyte Agkpo
+2018,6,MLUJJ,67HK7,40435M177,Shantanu Khare / Hippolyte Agkpo
+2018,6,MLUJO,67HP4,06746T797,Mickael Slomka
+2018,6,MLVHD,28AI0,97097638,Andy Kirou / Charles Wright
+2018,6,MLUJM,67HL8,40435M169,Mickael Slomka
+2018,6,MLUJG,68DP5,06746T714,Shantanu Khare / Hippolyte Agkpo
+2018,6,MLUJS,67HS3,22548Y587,Philippe Trouve / Tyler Foote
+2018,6,MLUJF,67FA0,40435M193,Shantanu Khare / Hippolyte Agkpo
+2018,6,MLUJP,67FH6,94988U516,Philippe Trouve / Tyler Foote
+2018,7,MLOSN,13FY1,40435X736,Simon Torjmane / Wen Xuan Lim
+2018,7,MLUKB,67AP5,64161235,Mickael Slomka
+2018,7,MLVIB,28AY5,97097679,Andy Kirou / Charles Wright
+2018,7,MLUJT,49F39,64161243,Shantanu Khare / Hippolyte Agkpo
+2018,7,MLVIC,67HY2,64161250,Youssef Boujemaoui / Thomas Eshaghi
+2018,7,MLUJV,68DQ6,97097711,Shantanu Khare / Hippolyte Agkpo
+2018,7,MLUJW,68DQ7,97097695,Shantanu Khare / Hippolyte Agkpo
+2018,7,MLUJX,67G09,97097687,Shantanu Khare / Hippolyte Agkpo
+2018,7,MLUJZ,67G22,64161219,Mickael Slomka
+2018,7,MLUJY,67G63,64161185,Shantanu Khare / Hippolyte Agkpo
+2018,7,MLMGA,67IB2,64161110,Shantanu Khare / Hippolyte Agkpo
+2018,8,MLUKS,67IG0,06417P306,Shantanu Khare / Hippolyte Agkpo
+2018,8,MLUKN,68DY4,06417P207,Shantanu Khare / Hippolyte Agkpo
+2018,8,MLUKL,68DY6,06746U836,Shantanu Khare / Hippolyte Agkpo
+2018,8,MLUKK,68DW2,06746T367,Shantanu Khare / Hippolyte Agkpo
+2018,8,MLOSO,67IA9,22548Y538,Mickael Slomka
+2018,8,MLOSQ,08TY8,40435X496,Simon Torjmane / Wen Xuan Lim
+2018,8,MLOSP,08TZ6,40435X488,Simon Torjmane / Wen Xuan Lim
+2018,8,MLUKQ,67IG1,22548Y520,Shantanu Khare / Hippolyte Agkpo
+2018,8,MLUKP,67H69,22548Y546,Shantanu Khare / Hippolyte Agkpo
+2018,8,MLKGP,39G89,97097778,Shantanu Khare / Hippolyte Agkpo
+2018,8,MLUKV,67H53,40435X686,Mickael Slomka
+2018,8, MLVIP,28AY7,97097745,Andy Kirou / Charles Wright
+2018,8,MLUKW,39G85,22548Y553,Mickael Slomka
+2018,8,MLUKR,67H85,64161136,Shantanu Khare / Hippolyte Agkpo
+2018,8,MLVIQ,67IA3,867914830,Pierre-Alexandre Des Mazis
+2018,8,MLUKT,67H66,40435X678,Mickael Slomka
+2018,8,MLUKM,59Y34,40435X694,Shantanu Khare / Hippolyte Agkpo
+2018,8,MLVIW,30P10,97097760,Pierre-Alexandre Des Mazis
+2018,9,MLULN,49OC7,22548Y496,Shantanu Khare / Hippolyte Agkpo
+2018,9,MLULP,67IP5,06417P702,Philippe Trouve / Tyler Foote
+2018,9,MLVJO,39B37,06746U471,Liang Chen / Sun Oh Hahm
+2018,9,MLVJK,67IO3,40435X389,Youssef Boujemaoui / Thomas Eshaghi
+2018,9,MLKGQ,39G97,97097828,Mickael Slomka
+2018,9,MLULI,68D09,40435X397,Shantanu Khare / Hippolyte Agkpo
+2018,9,MLULL,67IH8,06417P405,Mickael Slomka
+2018,9,MLULM,67IM3,22548Y470,Mickael Slomka
+2018,9,MLVJJ,21A10,40435X371,Andy Kirou / Charles Wright
+2018,9,MLVJN,08UJ9,97097802,Stephen Comey / Jeremy Crow
+2018,9,MLVJM,08UL0,97097810,Stephen Comey / Jeremy Crow
+2018,9,MLULJ,67IH7,40435X413,Shantanu Khare / Hippolyte Agkpo
+2018,9,MLULK,67IQ5,40435X322,Shantanu Khare / Hippolyte Agkpo
+2018,9,MLULH,68DZ1,22548Y512,Shantanu Khare / Hippolyte Agkpo
+2018,9,MLULF,39G93,40435X330,Pierre-Alexandre Des Mazis
+2018,9,MLOSR,08UL8,40435X140,Simon Torjmane / Wen Xuan Lim
+2018,10,MLVJV,21A62,06417P801,Andy Kirou / Charles Wright
+2018,10,MLULY,67IW2,06417P827,Pierre-Alexandre Des Mazis
+2018,10,MLULU,67IU4,06417P884,Shantanu Khare / Hippolyte Agkpo
+2018,10,MLULT,68D18,06417P785,Shantanu Khare / Hippolyte Agkpo
+2018,10,MLULW,67KF8,06417P793,Mickael Slomka
+2018,10,MLKGR,30QD4,05586J109,Shantanu Khare / Hippolyte Agkpo
+2018,10,MLJBP,67IV4,06417P868,Philippe Trouve / Tyler Foote
+2018,10,MLULS,68D13,06417P876,Shantanu Khare / Hippolyte Agkpo
+2018,10,MLULZ,39HA1,97097851,Pierre-Alexandre Des Mazis
+2018,10,MLULV,39HA2,97097869,Shantanu Khare / Hippolyte Agkpo
+2018,10,MLVKA,21A63,06417P835,Andy Kirou / Charles Wright
+2018,10,MLUMB,21A64,06417P819,Andy Kirou / Charles Wright
+2018,10,MLVJX,67IV1,867914822,Youssef Boujemaoui / Thomas Eshaghi
+2018,10,MLVKE,08UQ6,05586J125,Stephen Comey / Jeremy Crow
+2018,11,MLUMR,67KH6,94988U391,Philippe Trouve / Tyler Foote
+2018,11,MLVLO,67KJ2,97098149,Andy Kirou / Charles Wright
+2018,11,MLVKV,67KH2,867914814,Youssef Boujemaoui / Thomas Eshaghi
+2018,11,MLVKU,21BA3,40436A842,Andy Kirou / Charles Wright
+2018,11,MLUMU,67KI5,97098131,Pierre-Alexandre Des Mazis
+2018,11,MLUMM,39HA8,40436A826,Mickael Slomka
+2018,11,MLUML,67KH1,22548Y397,Mickael Slomka
+2018,11,MLUMF,68D47,40436A792,Shantanu Khare / Tanner Di Lello
+2018,11,MLUMJ,68D46,40436A818,Shantanu Khare / Tanner Di Lello
+2018,11,MLUMN,39HB0,22548Y389,Mickael Slomka
+2018,11,MLUME,67KG9,40436A859,Shantanu Khare / Tanner Di Lello
+2018,11,MLUMK,67KH0,06417P728,Shantanu Khare / Tanner Di Lello
+2018,11,MLOSU,67KI3,06746V768,Shantanu Khare / Tanner Di Lello
+2018,11,MLVKZ,67KI6,94988U342,Philippe Trouve / Tyler Foote
+2018,11,MLOST,67KI4,06746V750,Simon Torjmane / Wen Xuan Lim
+2018,11,MLOSS,67KI2,06746V743,Simon Torjmane / Wen Xuan Lim
+2018,11,MLVKY,21BB2,06746V776,Andy Kirou / Charles Wright
+2018,11,MLUMV,08ZQ2,94988U326,Pierre-Alexandre Des Mazis
+2018,12,MLVML,67KJ3,94988U318,Youssef Boujemaoui / Thomas Eshaghi
+2018,12,MLUNE, 67KK2,22548Y348,Mickael Slomka
+2018,12,MLUNJ,08ZQ3,06417P611,Andy Kirou / Charles Wright
+2018,12,MLUNK,39HB7,06417P595,Pierre-Alexandre Des Mazis
+2018,12,MLUNM,08ZQ4,94988U250,Pierre-Alexandre Des Mazis
+2018,12,MLUNH,39HB6,22548Y322,Mickael Slomka
+2018,12,MLVMK,67KK4,97098206,Andy Kirou / Charles Wright
+2018,12,MLUNC,67KK0,06417P645,Shantanu Khare / Tanner Di Lello
+2018,12,MLUMY,67KJ9,94988U292,Philippe Trouve / Tyler Foote
+2018,12,MLVNM,39HC0,13607B204,Pierre-Alexandre Des Mazis
+2018,12,MLUNA,68D60,97098198,Shantanu Khare / Tanner Di Lello
+2018,12,MLUNB,67KK1,06417P637,Shantanu Khare / Tanner Di Lello
+2018,12,MLUNF,39HB4,13606M276,Mickael Slomka
+2018,12,MLUMZ,68D56,13606M268,Shantanu Khare / Tanner Di Lello
+2018,12,MLVMN,67KK5,94988U268,Philippe Trouve / Tyler Foote
+2018,12,MLOSV,67KK9,40436A610,Shantanu Khare / Tanner Di Lello
+2019,1,MLUNP,68D74,13606M235,Shantanu Khare / Tanner Di Lello
+2019,1,MLVNF,21BC3,97098263,Andy Kirou / Charles Wright
+2019,1,MLUOA,08ZQ6,06417P538,Pierre-Alexandre Des Mazis
+2019,1,MLVNN,67KL6,06417P561,Andy Kirou / Charles Wright
+2019,1,MLUNU,67KL7,40436A560,Mickael Slomka
+2019,1,MLUNR,67KL5,22548Y256,Shantanu Khare / Tanner Di Lello
+2019,1,MLUNW,39HC3,40436A552,Mickael Slomka
+2019,1,MLUNS,67KL9,97098230,Shantanu Khare / Tanner Di Lello
+2019,1,MLVNK,67KM3,13606M185,Philippe Trouve / Tyler Foote
+2019,1,MLVNJ,39HC5,13606M193,Pierre-Alexandre Des Mazis
+2019,1,MLUNV,39HC1,40436A586,Mickael Slomka
+2019,1,MLUNQ,68D78,40436A578,Shantanu Khare / Tanner Di Lello
+2019,1,MLOSX,67KM4,40436A511,Simon Torjmane / Wen Xuan Lim
+2019,2,MLVNZ,67KN2,40436A461,Philippe Trouve / Tyler Foote
+2019,2,MLUOJ,67KM9,97098297,Andy Kirou / Charles Wright
+2019,2,MLUOE,39HD3,40436A438,Mickael Slomka
+2019,2,MLUOK,39HD2,40436A446,Mickael Slomka
+2019,2,MLVNW,21BC8,97098412,Andy Kirou / Charles Wright
+2019,2,MLUOD,39HD6,40436A370,Pierre-Alexandre Des Mazis
+2019,2,MLUOG,68D95,97098321,Shantanu Khare / Tanner Di Lello
+2019,2,MLVNY,39HD1,40436A479,Pierre-Alexandre Des Mazis
+2019,2,MLUOI,67KN8,97098396,Shantanu Khare / Tanner Di Lello
+2019,2,MLUOH,67KN7,40436A396,Shantanu Khare / Tanner Di Lello
+2019,2,MLUOF,68D98,40436A420,Shantanu Khare / Tanner Di Lello
+2019,2,MLUOL,49IA0,40436A362,Shantanu Khare / Tanner Di Lello
+2019,2,MLUOM,08ZQ7,40436A347,Pierre-Alexandre Des Mazis
+2019,2,MLOSZ,67KO1,40436A354,Shantanu Khare / Tanner Di Lello
+2019,3,MLUOX,67KQ4,06417P462,Shantanu Khare / Tanner Di Lello
+2019,3,MLVOZ,39HE2,06417P488,Pierre-Alexandre Des Mazis
+2019,3,MLVPE,67KP7,06417P470,Andy Kirou / Charles Wright
+2019,3,MLUOW,67KP0,06417P512,Shantanu Khare / Tanner Di Lello
+2019,3,MLUOV,68FM5,40436A131,Shantanu Khare / Tanner Di Lello
+2019,3,MLUOU,68FL3,40436A230,Shantanu Khare / Tanner Di Lello
+2019,3,MLUOS,39HE5,40436A198,Mickael Slomka
+2019,3,MLUOT,39HE6,13607G104,Mickael Slomka
+2019,3,MLUOP,67KO3,40436A255,Shantanu Khare / Tanner Di Lello
+2019,3,MLUOO,68FM1,40436A214,Shantanu Khare / Tanner Di Lello
+2019,3,MLUOY,67KP8,06746Y325,Andy Kirou / Charles Wright
+2019,3,MLVOO,21BD3,06417P520,Andy Kirou / Charles Wright
+2019,3,MLVPF,28CD4,97098529,Pierre-Alexandre Des Mazis
+2019,3,MLKGS,67KO8,97098461,Philippe Trouve / Tyler Foote
+2019,3,MLVPI,30QW2,97098537,Shantanu Khare / Tanner Di Lello
+2019,4,MLUPI,68FM7,13607G203,Shantanu Khare / Tanner Di Lello
+2019,4,MLVQB,39HF3,06417P413,Pierre-Alexandre Des Mazis
+2019,4,MLUPJ,39HF2,97098545,Mickael Slomka
+2019,4,MLVPJ,67KR5,06417P371,Philippe Trouve / Tyler Foote
+2019,4,MLUPH,39HF7,97098560,Mickael Slomka
+2019,4,MLUPF,68FN0,97098552,Shantanu Khare / Tanner Di Lello
+2019,4,MLUPK,08ZQ8,13607G302,Pierre-Alexandre Des Mazis
+2019,4,MLUPD,67KR2,06417P397,Philippe Trouve / Tyler Foote
+2019,4,MLUPE,67KR3,06417P389,Shantanu Khare / Tanner Di Lello
+2019,4,MLUPC,67KR0,06417P439,Shantanu Khare / Tanner Di Lello
+2019,4,MLVPQ,21BE9,13607G807,Andy Kirou / Charles Wright
+2019,4,MLUPA,49P48,13607G708,Shantanu Khare / Tanner Di Lello
+2019,5,MLUPP,67KR9,40436B881,Shantanu Khare / Tanner Di Lello
+2019,5,MLUPX,67GS8,40436B717,Shantanu Khare / Tanner Di Lello
+2019,5,MLUPU,68FN9,06417P314,Shantanu Khare / Tanner Di Lello
+2019,5,MLUPW,08ZR0,06747B704,Pierre-Alexandre Des Mazis
+2019,5,MLVQY,250Q5,06417P280,Andy Kirou / Charles Wright
+2019,5,MLOTB,67F79,06747A268,Simon Torjmane / Wen Xuan Lim
+2019,5,MLVQR,39HH1,97098610,Pierre-Alexandre Des Mazis
+2019,5,MLVQP,67KS5,06747A375,Andy Kirou / Charles Wright
+2019,5,MLUPO,30PY7,06417P298,Shantanu Khare / Tanner Di Lello
+2019,5,MLUPS,39HH0,13607G831,Mickael Slomka
+2019,5,MLVQQ,21BF4,13607G849,Andy Kirou / Charles Wright
+2019,5,MLUPV,08ZQ9,06417P330,Andy Kirou / Charles Wright
+2019,5,MLUPY,67H48,40436B659,Shantanu Khare / Tanner Di Lello
+2019,5,MLUPQ,67AA9,40436B8164,Shantanu Khare / Tanner Di Lello
+2019,5,MLUPR,39HG8,40436B857,Mickael Slomka
+2019,5,MLUPT,68FN6,40436B873,Shantanu Khare / Tanner Di Lello
+2019,6,MLVRR,250X0,06747B399,Andy Kirou / Charles Wright
+2019,6,MLUQR,31HY2,97098685,Liang Chen / Sun Oh Hahm
+2019,6,MLUQM,39GN5,40436B626,Mickael Slomka
+2019,6,MLOTC,67KU1,06747B290,Shantanu Khare / Tanner Di Lello
+2019,6,MLVRP,67KT4,13607G740,Andy Kirou / Charles Wright
+2019,6,MLUQK,67CQ0,97098677,Shantanu Khare / Tanner Di Lello
+2019,6,MLUQJ,39HH4,06747B480,Mickael Slomka
+2019,6,MLUQI,39HH3,06417P272,Mickael Slomka
+2019,6,MLUQH,661V5,97098669,Shantanu Khare / Tanner Di Lello
+2019,6,MLUQG,49C79,40436B618,Shantanu Khare / Tanner Di Lello
+2019,6,MLVRK,250R5,06417P256,Andy Kirou / Charles Wright
+2019,6,MLUQE,67KU4,06417P181,Shantanu Khare / Tanner Di Lello
+2019,6,MLUQD,67KT9,06417P223,Shantanu Khare / Tanner Di Lello
+2019,6,MLUQC,08ZR1,22548Y124,Andy Kirou / Charles Wright
+2019,6,MLUQB,67KU5,13607G732,Shantanu Khare / Tanner Di Lello
+2019,6,MLUQA,67KT5,13607G757,Shantanu Khare / Tanner Di Lello
+2019,7,MLURF,31HZ3,06417Q205,Yin Liu
+2019,7,MLUQU,39HJ2,78014F445,Pierre-Alexandre Des Mazis
+2019,7,MLVSN,39HJ3,97098784,Mickael Slomka
+2019,7,MLUQY,39HJ6,13607G666,Mickael Slomka
+2019,7,MLVSJ,67KV9,97098768,Charles Wright
+2019,7,MLVSF,67KV6,13607G716,Charles Wright
+2019,7,MLURE,08ZR2,06417P124,Pierre-Alexandre Des Mazis
+2019,7,MLVSL,28AG1,06417Q106,Charles Wright
+2019,7,MLUQT,67KW3,97098818,Charles Wright
+2019,7,MLVSH,39HJ5,78014F429,Pierre-Alexandre Des Mazis
+2019,7,MLUQZ,67DQ0,06417P157,Shantanu Khare / Tanner Di Lello
+2019,7,MLUQX,39HJ1,13607G674,Mickael Slomka
+2019,7,MLVSG,67DR2,97098792,Nate Boroff
+2019,7,MLURD,67DX3,97098826,Shantanu Khare / Tanner Di Lello
+2019,7,MLVSK,28AA6,13607G682,Charles Wright
+2019,7,MLUQW,67KW8,06417P116,Shantanu Khare / Tanner Di Lello
+2019,7,"MLURB	",67KV5,06747B142,Shantanu Khare / Tanner Di Lello
+2019,7,MLVSI,49DP2,97098750,Nate Boroff
+2019,7,MLUQV,67KX3,13607G641,Shantanu Khare / Tanner Di Lello
+2019,7,MLURA,67KV7,13607G690,Shantanu Khare / Tanner Di Lello
+2019,7,MLVSB,67KW1,97098776,Shantanu Khare / Tanner Di Lello
+2019,8,MLOTE,67KZ4,06747C447,Shantanu Khare / Tanner Di Lello
+2019,8,MLURO,68DL2,13607G583,Shantanu Khare / Tanner Di Lello
+2019,8,MLVTH,39HK1,95002W800,Pierre-Alexandre Des Mazis
+2019,8,MLURN,39HJ9,40436B378,Mickael Slomka
+2019,8,MLVTF,39HK0,95002W701,Mickael Slomka
+2019,8,MLVTO,73KH5,06747C355,Yin Liu
+2019,8,MLVTD,28AL2,09710C105,Charles Wright
+2019,8,MLURT,08ZR3,06747C546,Pierre-Alexandre Des Mazis
+2019,8,MLVTP,28CF0,06747C363,Charles Wright
+2019,8,MLVTC,67KY6,40436B345,Shantanu Khare / Tanner Di Lello
+2019,8,MLURL,67KY3,13607G617,Charles Wright
+2019,8,MLVSW,28AJ1,13607G633,Charles Wright
+2019,8,MLURS,39HK3,06417Q866,Mickael Slomka
+2019,8,MLVSV,68DL0,95002W602,Nate Boroff
+2019,8,MLURQ,39HK2,95002W883,Pierre-Alexandre Des Mazis
+2019,8,MLVSR,67KY2,97098883,Charles Wright
+2019,8,MLVTJ,67KY7,06417Q858,Charles Wright
+2019,8,MLURK,67KX8,06747C744,Shantanu Khare / Tanner Di Lello
+2019,8,MLURJ,67KX4,06417Q700,Shantanu Khare / Tanner Di Lello
+2019,8,MLVSU,49F69,95002W503,Nate Boroff
+2019,8,MLURG,67KX5,40436B386,Shantanu Khare / Tanner Di Lello
+2019,8,MLURP,67KZ0,40436B212,Shantanu Khare / Tanner Di Lello
+2019,8,MLURH,68DK3,13607G625,Shantanu Khare / Tanner Di Lello
+2019,8,MLVTK,30Q30,95002W867,Shantanu Khare / Tanner Di Lello
+2019,8,MLURI,31H70,06417Q882,Shantanu Khare / Tanner Di Lello
+2019,9,MLVVG,67K14,06747C132,Charles Wright
+2019,9,MLVVB,67K04,13607G575,Charles Wright
+2019,9,MLUSJ,67K06,09710C154,Shantanu Khare / Tanner Di Lello
+2019,9,MLUSK,39HK8,13607G567,Mickael Slomka
+2019,9,MLUSI,67K01,06747C314,Shantanu Khare / Tanner Di Lello
+2019,9,MLVUY,67K05,06747C280,Shantanu Khare / Tanner Di Lello
+2019,9,MLVTR,39HK5,95002W859,Pierre-Alexandre Des Mazis
+2019,9,MLVUO,28AR1,78014F387,Charles Wright
+2019,9,MLUSE,39HK9,13607G559,Mickael Slomka
+2019,9,MLGRZ,39HL3,09710C220,Shantanu Khare / Tanner Di Lello
+2019,9,MLVTY,67K07,06417Q791,Charles Wright
+2019,9,MLVTZ,68DT2,22550J502,Charles Wright
+2019,9,MLKGT,67KZ5,09710C147,Charles Wright
+2019,9,MLKGU,70AA4,09710C170,Charles Wright
+2019,9,MLURY,68DS6,40436B162,Shantanu Khare / Tanner Di Lello
+2019,9,MLVVC,39HL0,06417Q783,Pierre-Alexandre Des Mazis
+2019,9,MLURZ,08ZR4,06417Q817,Pierre-Alexandre Des Mazis
+2019,9,MLURW,68DR4,06417Q841,Shantanu Khare / Tanner Di Lello
+2019,9,MLURX,67K00,06747C348,Charles Wright
+2019,9,MLVTS,49O21,06417Q833,Nate Boroff
+2019,10,MLMSG,39HM3,06747D858,Shantanu Khare / Tanner Di Lello
+2019,10,MLUTA,67K31,06417Q668,Shantanu Khare / Tanner Di Lello
+2019,10,MLUSM,67K22,06417Q767,Shantanu Khare / Tanner Di Lello
+2019,10,MLUTE,67KG1,13607G443,Shantanu Khare / Tanner Di Lello
+2019,10,MLUSN,67K18,13607G534,Shantanu Khare / Tanner Di Lello
+2019,10,MLUSP,68DW3,09710C253,Shantanu Khare / Tanner Di Lello
+2019,10,MLVVP,67K19,78014F361,Shantanu Khare / Tanner Di Lello
+2019,10,MLOTH,67K28,06747D841,Shantanu Khare / Tanner Di Lello
+2019,10,MLUTC,39HM5,13607G435,Mickael Slomka
+2019,10,MLUSY,39HL6,13607G492,Mickael Slomka
+2019,10,MLKGV,67K23,09710C238,Charles Wright
+2019,10,MLVVY,49O94,13607G518,Nate Boroff
+2019,10,MLUTF,31I42,06417Q650,Shantanu Khare / Tanner Di Lello
+2019,10,MLVVU,68D00,06417Q684,Charles Wright
+2019,10,MLUTD,08ZR5,06417Q692,Pierre-Alexandre Des Mazis
+2019,10,MLVVV,39HL5,78014F353,Pierre-Alexandre Des Mazis
+2019,10,MLVVT,39HL7,13607G476,Pierre-Alexandre Des Mazis
+2019,10,MLVVS,28AS5,13607G450,Charles Wright
+2019,10,MLUSV,39HM4,06417Q676,Mickael Slomka
+2019,10,MLUSU,39HL8,06417Q742,Mickael Slomka
+2019,10,MLVVR,67K27,13607G468,Charles Wright
+2019,10,MLUSW,68D27,09710C246,Shantanu Khare / Tanner Di Lello
+2019,10,MLVVI,67K25,06417Q726,Charles Wright
+2019,10,MLUSQ,67K26,06417Q718,Charles Wright
+2019,11,MLUTN,39HN0,40438B723,Mickael Slomka
+2019,11,MLUTO,39HN7,40438B566,Mickael Slomka
+2019,11,MLUTG,67K38,40438B731,Charles Wright
+2019,11,MLVWL,67K40,06747D569,Shantanu Khare / Tanner Di Lello
+2019,11,MLUTM,67K54,06747D213,Shantanu Khare / Tanner Di Lello
+2019,11,MLUTL,67K42,06747D551,Shantanu Khare / Tanner Di Lello
+2019,11,MLJCO,67K48,40438B665,Mickael Slomka
+2019,11,MLUTW,49PF9,40438B699,Shantanu Khare / Tanner Di Lello
+2019,11,MLVWR,67K43,95002W768,Charles Wright
+2019,11,MLOTL,67K51,06747D387,Shantanu Khare / Tanner Di Lello
+2019,11,MLUTJ,67K44,09710C329,Shantanu Khare / Tanner Di Lello
+2019,11,MLUTK,67K57,09710C345,Shantanu Khare / Tanner Di Lello
+2019,11,MLVWO,67K41,40438B681,Charles Wright
+2019,11,MLUTV,67K50,22550J858,Youssef Boujemaoui / Thomas Eshaghi
+2019,11, MLVWT,67K45,06747D528,Charles Wright
+2019,11,MLUTI,21BE8,06747D544,Charles Wright
+2019,11,MLUTS,68EB4,40438B715,Shantanu Khare / Tanner Di Lello
+2019,11,MLUTU,67K47,06747D478,Shantanu Khare / Tanner Di Lello
+2019,11,MLUTX,30Q50,06747D262,Shantanu Khare / Tanner Di Lello
+2019,11,MLUTR,39HN6,40438B582,Mickael Slomka
+2019,11,MLUTQ,39HN2,40438B673,Mickael Slomka
+2019,11,MLVWP,68D86,95002W784,Charles Wright
+2019,11,MLUTT,68D82,06747D593,Shantanu Khare / Tanner Di Lello
+2019,11,MLVWU,28CF8,40438B632,Ryan Sosnader / Evan Levine
+2019,11,MLVWS,39HN5,06747D239,Pierre-Alexandre Des Mazis
+2019,11,MLVWQ,39HM8,40438B749,Pierre-Alexandre Des Mazis
+2019,12,MLUUC,67K70,06417Q593,Charles Wright
+2019,12,MLUTZ,39HN8,06747E872,Mickael Slomka
+2019,12,MLUUA,67K69,40438B467,Shantanu Khare / Tanner Di Lello
+2019,12,MLUUH,67K64,06417Q635,Shantanu Khare / Tanner Di Lello
+2019,12,MLUUE,49PO2,40438B483,Shantanu Khare / Tanner Di Lello
+2019,12,MLUUM,30Q53,06747E773,Shantanu Khare / Tanner Di Lello
+2019,12,MLOTN,67K75,06747E575,Shantanu Khare / Tanner Di Lello
+2019,12,MLUUB,68EQ3,40438B475,Shantanu Khare / Tanner Di Lello
+2019,12,MLUUF,67K76,09710C360,Charles Wright
+2019,12,MLUUL,67K72,40438B442,Pierre-Alexandre Des Mazis
+2019,12,MLUUK,67K62,22550J825,Mickael Slomka
+2019,12,MLVXF,39HP4,06747E757,Pierre-Alexandre Des Mazis
+2019,12,MLUUN,70AA9,06417Q585,Youssef Boujemaoui / Thomas Eshaghi
+2019,12,MLVXD,68EP9,06747E799,Charles Wright
+2019,12,MLVXG,30Q61,06417Q577,Shantanu Khare / Tanner Di Lello
+2019,12,MLUUJ,68EQ2,06417Q619,Shantanu Khare / Tanner Di Lello
+2019,12,MLVXE,21BF8,891160525,Charles Wright
+2019,12,MLVXC,67K65,06417Q627,Charles Wright
+2019,12,MLUUO,30Q56,40438B350,Shantanu Khare / Tanner Di Lello
+2019,12,MLUUI,39HP2,22550J817,Mickael Slomka
+2020,1,MLUVE,68ET3,06747F820,Shantanu Khare / Tanner Di Lello
+2020,1,MLUUV,68EQ9,06747E336,Pierre-Alexandre Des Mazis
+2020,1,MLUUZ,67LA5,22550J759,Charles Wright
+2020,1,MLUUQ,67K93,22550J767,Charles Wright
+2020,1,MLVXT,39HR4,06747E328,Shantanu Khare / Tanner Di Lello
+2020,1,MLVXZ,30Q89,09710C410,Shantanu Khare / Tanner Di Lello
+2020,1,MLUVA,67LA6,06417Q510,Pierre-Alexandre Des Mazis
+2020,1,MLUUR,67K86,06417Q551,Shantanu Khare / Tanner Di Lello
+2020,1,MLUVF,67LA0,06747E112,Shantanu Khare / Tanner Di Lello
+2020,1,MLVXO,67K84,40438B319,Charles Wright
+2020,1,MLVXS,68EQ8,06417Q536,Simon Torjmane / Wen Xuan Lim
+2020,1,MLOTR,67LA7,06747F739,Charles Wright
+2020,1,MLUVC,39HR6,22550J742,Mickael Slomka
+2020,1,MLVYB,67LA2,78014F221,Charles Wright
+2020,1,MLUUX,67K90,78014F254,Youssef Boujemaoui / Thomas Eshaghi
+2020,1,MLUVG,30Q91,78014F213,Mickael Slomka
+2020,1,MLUUS,39HP9,40438B293,Pierre-Alexandre Des Mazis
+2020,1,MLUUT,39HP8,22550J783,Charles Wright
+2020,1,MLUUY,30Q87,40438B285,Pierre-Alexandre Des Mazis
+2020,1,MLVXW,21BG4,06417Q528,Pierre-Alexandre Des Mazis
+2020,1,MLUUW,67K85,13607G393,Simon Torjmane / Wen Xuan Lim
+2020,1,MLVXR,67K91,78014F239,Shantanu Khare / Tanner Di Lello
+2020,1,MLUVB,39HR5,40438B194,Charles Wright
+2020,1,MLVYA,8Y022,06747E260,Shantanu Khare / Tanner Di Lello
+2020,1,MLVXV,67K89,13607G385,Shantanu Khare / Tanner Di Lello
+2020,1,MLUVD,68ET4,06417Q494,Shantanu Khare / Tanner Di Lello
+2020,1,MLVXX,39HR1,06747E344,Shantanu Khare / Tanner Di Lello
+2020,1,MLUUU,68EQ6,06417Q569,Pierre-Alexandre Des Mazis
+2020,2,MLUVI,39HR9,13607G328,Pierre-Alexandre Des Mazis
+2020,2,MLUVJ,39HS0,13607G294,Mickael Slomka
+2020,2,MLVYJ,39HS1,06417Q460,Pierre-Alexandre Des Mazis
+2020,2,MLUVS,67LB4,06417Q445,Shantanu Khare / Tanner Di Lello
+2020,2,MLUVQ,08ZR7,06417Q387,Pierre-Alexandre Des Mazis
+2020,2,MLUVN,67LB1,06417Q452,Charles Wright
+2020,2,MLVYI,68FP6,40438B111,Charles Wright
+2020,2,MLVYQ,30Q96,06417Q379,Nate Boroff
+2020,2,MLOTS,67LC3,06747F218,Mickael Slomka
+2020,2,MLUVH,67LB6,13607G260,Mickael Slomka
+2020,2,MLUVM,67LB7,40438G102,Shantanu Khare / Tanner Di Lello
+2020,2,MLUVP,49P72,06417Q411,Shantanu Khare / Tanner Di Lello
+2020,2,MLVYO,67LB8,13607G245,Charles Wright
+2020,2,MLUVR,68FP8,40438J106,Shantanu Khare / Tanner Di Lello
+2020,2,MLVYD,30Q92,13607G336,Shantanu Khare / Tanner Di Lello
+2020,2,MLVYN,39HS2,06417Q395,Pierre-Alexandre Des Mazis
+2020,2,MLVYK,67LB3,13607G278,Charles Wright
+2020,2,MLUVT,39HS4,40438G607,Pierre-Alexandre Des Mazis
+2020,2,MLVYM,21BG5,13607G310,Charles Wright
+2020,2,MLUVL,68FP5,06417Q478,Shantanu Khare / Tanner Di Lello
+2020,2,MLUVU,8Y1Q7,40438G706,Shantanu Khare / Tanner Di Lello
+2020,2,MLVYL,67LA9,06417Q486,Charles Wright
+2020,2,MLUVK,39HR8,40438B145,Mickael Slomka
+2020,2,MLVXU,49P15,40434B107,Charles Wright
+2020,2,MLVYC,08VY1,40438B178,
+2020,3,MLVZJ,21BI8,95002W594,Charles Wright
+2020,3,MLJCT,67LD3,13607G161,Shantanu Khare / Tanner Di Lello
+2020,3,MLUVZ,67LD5,06747G810,Shantanu Khare / Tanner Di Lello
+2020,3,MLVYV,67LD1,891160517,Charles Wright
+2020,3,MLVZA,21BI3,06417R203,Charles Wright
+2020,3,MLUVY,67LD0,13607G179,Shantanu Khare / Tanner Di Lello
+2020,3,MLJCU,67LD8,13607G153,Shantanu Khare / Tanner Di Lello
+2020,3,MLUVW,67LD6,95002W669,Charles Wright
+2020,3,MLUWD,68FQ3,06417Q130,Shantanu Khare / Tanner Di Lello
+2020,3,MLUWI,39HS9,13607G187,Mickael Slomka
+2020,3,MLVYZ,67LD2,891160491,Charles Wright
+2020,3,MLUWC,68FQ4,06747G877,Shantanu Khare / Tanner Di Lello
+2020,3,MLVYY,39HS8,06417R104,Pierre-Alexandre Des Mazis
+2020,3,MLJCV,67KQ3,06747G620,Shantanu Khare / Tanner Di Lello
+2020,3,MLUWG,67LC6,40438J304,Mickael Slomka
+2020,3,MLVZF,67LC8,13607G211,Charles Wright
+2020,3,MLUWA,39HS6,06417Q122,Mickael Slomka
+2020,3,MLOTU,67LD4,06747G828,Shantanu Khare / Tanner Di Lello
+2020,3,MLVYW,68FQ5,13607G195,Charles Wright
+2020,3,MLUWF,49P82,40438J205,Shantanu Khare / Tanner Di Lello
+2020,3,MLVZC,39HS7,06417Q114,Pierre-Alexandre Des Mazis
+2020,4,MLUWM,67LF3,06417R872,Shantanu Khare / Tanner Di Lello
+2020,4,MLWAA,21BJ5,13607H805,Charles Wright
+2020,4,MLUWL,67LF0,891160475,Charles Wright
+2020,4,MLJCX,67LE3,09710C451,Shantanu Khare / Tanner Di Lello
+2020,4,MLUWQ,68FQ7,06417R609,Shantanu Khare / Tanner Di Lello
+2020,4,MLUWK,49P93,13607H409,Shantanu Khare / Tanner Di Lello
+2020,4,MLVZV,67LF6,06417R864,Charles Wright
+2020,4,MLUWP,68FQ9,13607H508,Shantanu Khare / Tanner Di Lello
+2020,4,MLVZY,67LF7,13607H870,Shantanu Khare / Tanner Di Lello
+2020,4,MLVZR,68FR0,891160459,Charles Wright
+2020,4,MLVZS,67LE9,06417R807,Charles Wright
+2020,4,MLUWO,39HT6,13607H102,Mickael Slomka
+2020,4,MLVZK,67LE7,13607G120,Shantanu Khare / Tanner Di Lello
+2020,4,MLVZZ,39HT7,06417R831,Pierre-Alexandre Des Mazis
+2020,4,MLVZT,21BJ0,06417R500,Charles Wright
+2020,4,MLVZW,21BJ3,06417R856,Charles Wright
+2020,4,MLVZQ,67LF1,06417R880,Charles Wright
+2020,4,MLUWN,67LE6,13607G138,Shantanu Khare / Tanner Di Lello
+2020,4,MLAGC,67LF8,06417R815,
+2020,5,MLWAU,67LH4,09710C485,Index
+2020,5,MLWAP,67LG1,06417R773,Index
+2020,5,MLWAN,39HT8,22550J734,EMEA
+2020,5,MLUWW,68FR2,06417R765,Exotics
+2020,5,MLWAQ,21BJ9,06417R757,Index
+2020,5,MLWAG,67LG6,06417R724,Index
+2020,5,MLWAR,30RC3,22550J718,Index
+2020,5,MLWAJ,39HT9,40438J767,EMEA
+2020,5,MLUWV,68FR4,06417R682,Exotics
+2020,5,MLWAM,68FR3,06417R716,Index
+2020,5,MLWAW,67LH5,09710C493,EMEA
+2020,5,MLWAI,68FR5,06417R674,Index
+2020,5,MLWAT,39HU1,13607H854,Exotics
+2020,5,MLOUA,67LH1,06417R641,Exotics
+2020,5,MLUWX,39HU2,06747H826,EMEA
+2020,5,MLUWR,67LH0,06417R658,Index
+2020,5,MLWAL,67LG9,06417R666,Index
+2020,5,MLWAY,30RC5,09710C501,Index
+2020,5,MLWAX,28IH5,06747H727,Exotics
+2020,5,MLUWT,67LG7,06417R690,Exotics
+2020,5,MLWAV,68FR6,06747H883,Index
+2020,5,MLUWS,67LG3,06417R732,Exotics
+2020,5,MLWAO,67LG4,06417R740,Index
+2020,5,MLWAH,67LG2,40438J783,EMEA
+2020,5,MLUWY,49JJ3,06747H743,Exotics
+2020,5,MLWAS,30RB9,22550J726,Single Stock
+2020,5,MLWAE,67LF9,09710C469,Exotics
+2020,5,MLWAF,67LG0,06417R781,Index
+2020,5,MLWAD,21BJ8,06417R799,Index
+2020,5,MLKGW,67LH3,40438J742,Index
+2020,5,MLWAK,67LH8,06747H750,Exotics
+2020,6,UHAAA,13B22,40438J494,Simon Torjmane / Wen Xuan Lim
+2020,6,MLWQB,67I39,09710C568,Charles Wright
+2020,6,MLOUD,67GI3,06747H388,Simon Torjmane / Wen Xuan Lim
+2020,6,MLWBH,661P1,89117F307,Charles Wright
+2020,6,MLWBM,30PF2,78014F122,Ryan Sosnader / Don Nguyen
+2020,6,MLUYC,661R6,06747H347,Tanner Di Lello
+2020,6,MLWBC,30PC5,40438J627,Pierre-Alexandre Des Mazis
+2020,6,MLUYB,30PE4,13607H821,Mickael Slomka
+2020,6,MLWBG,67IF2,06747H313,Charles Wright
+2020,6,MLWAZ,67AG9,06747H438,Charles Wright
+2020,6,MLWBO,03HD7,06747H123,Simon Torjmane / Wen Xuan Lim
+2020,6,MLOUF,67AS4,09710C519,Tanner Di Lello
+2020,6,MLWBB,661S3,78014T106,Charles Wright
+2020,6,MLOUH,67GQ4,06747H362,Tanner Di Lello
+2020,6,MLUYA,67HF2,06747H297,Tanner Di Lello
+2020,6,MLWBI,67IJ3,40438J593,Charles Wright
+2020,6,MLWBF,67IV0,40438J619,Charles Wright
+2020,6,MLWBK,661S6,06417R625,Charles Wright
+2020,6,MLJDE,129V6,13607H813,Simon Torjmane / Wen Xuan Lim
+2020,6,MLUWZ,67GM2,13607H839,Tanner Di Lello
+2020,6,MLOUE,67I07,09710C550,Tanner Di Lello
+2020,6,MLWBA,67HB9,09710C527,Youssef Boujemaoui / Thomas Eshaghi
+2020,6,MLWBE,67IV2,09710C535,Simon Torjmane / Wen Xuan Lim
+2020,6,MLWBL,30PE6,78014F114,Nate Boroff
+2020,6,MLWBD,28C83,78014P104,Simon Torjmane / Wen Xuan Lim
+2020,6,MLUYD,661S2,06747H321,Tanner Di Lello
+2020,6,MLWBJ,38UH7,78014F130,Charles Wright
+2020,6,MLWBP,67I45,06747J871,Youssef Boujemaoui / Thomas Eshaghi
+2020,6,MLWBN,03CL2,06747H370,Ryan Sosnader / Don Nguyen
+2020,7,MLWBS,67LI8,13607H748,
+2020,7,MLWCB,30PH6,78014T205,
+2020,7,MLWBV,28IH8,78014T601,Tanner Di Lello
+2020,7,MLUYI,661V9,06417R542,Tanner Di Lello
+2020,7,MLOUI,67LI0,09710C584,Tanner Di Lello
+2020,7,MLWCF,67JD3,06417R617,
+2020,7,MLWCK,31H74,09710C642,
+2020,7,MLWCJ,73KP2,09710C634,
+2020,7,MLWCI,67LJ1,09710C626,
+2020,7,MLWCA,30PG1,13607H797,
+2020,7,MLWBZ,67JF6,06417R591,Charles Wright
+2020,7,MLOUK,661V3,09710C576,Tanner Di Lello
+2020,7,MLUYH,661V6,13607H789,Tanner Di Lello
+2020,7,UHAAC,67LJ0,40431U793,Tanner Di Lello
+2020,7,MLWCD,39HU6,13607H722,Pierre-Alexandre Des Mazis
+2020,7,MLWCC,250O7,06417R534,Charles Wright
+2020,7,MLWCH,250O8,13607H714,Charles Wright
+2020,7,MLUYG,39FW5,06417R559,Mickael Slomka
+2020,7,MLWBY,39GT1,78014T304,Charles Wright
+2020,7,MLWBR,67JJ2,09710C600,Charles Wright
+2020,7,MLWBU,39HU3,78014T502,Pierre-Alexandre Des Mazis
+2020,7,MLWBT,661V1,09710C618,Charles Wright
+2020,7,MLOUL,67LI9,06747J715,Tanner Di Lello
+2020,7,MLUYF,67LI6,06417R575,Tanner Di Lello
+2020,7,MLJDF,39CK8,78014T700,Simon Torjmane / Wen Xuan Lim
+2020,7,MLWBX,67LI5,13607H755,Tanner Di Lello
+2020,7,MLWCE,661V7,891160434,Charles Wright
+2020,7,MLUYK,49JC0,06417R583,Tanner Di Lello
+2020,7,MLWCG,67CL6,13607H730,Charles Wright
+2020,7,MLUYJ,67LI3,13607H771,Tanner Di Lello
+2020,7,MLUYE,67LI7,06417R567,Tanner Di Lello
+2020,8,UHAAD,67LK9,40438J130,Tanner Di Lello
+2020,8,MLUYP,67LK6,06417R450,Tanner Di Lello
+2020,8,MLUYN,67KX7,06417R526,Tanner Di Lello
+2020,8,MLUYL,49CM9,06417R484,Tanner Di Lello
+2020,8,MLWCU,67CU4,06417R476,Charles Wright
+2020,8,MLWCQ,39HU8,22550J676,Simon Torjmane / Wen Xuan Lim
+2020,8,MLUYW,67LK7,40438J163,Mickael Slomka
+2020,8,MLWCX,28AL5,06417R492,Charles Wright
+2020,8,MLOUN,67CR4,09710C675,Tanner Di Lello
+2020,8,MLUYO,67LK8,06747K506,Tanner Di Lello
+2020,8,MLUYM,67LK2,06747J327,Tanner Di Lello
+2020,8,MLWCT,67LJ5,06747J418,Charles Wright
+2020,8,MLWCL,67LJ4,06747J426,Charles Wright
+2020,8,MLWCO,39HW0,40438J353,Pierre-Alexandre Des Mazis
+2020,8,MLOUP,67LK1,06747J293,Tanner Di Lello
+2020,8,MLUYS,67CU0,40438J296,Tanner Di Lello
+2020,8,MLWCY,67CM7,06747J442,Charles Wright
+2020,8,MLJDG,39HW5,13607H698,Simon Torjmane / Wen Xuan Lim
+2020,8,MLUYQ,39HU9,06417R518,Mickael Slomka
+2020,8,MLUYT,49JJ8,40438J221,Tanner Di Lello
+2020,8,MLWCS,67LJ6,40438J346,Charles Wright
+2020,8,MLWCN,67CP6,09710C667,Charles Wright
+2020,8,MLUYU,30PU1,09710C691,Tanner Di Lello
+2020,8,MLUYY,03HE1,40438J171,Simon Torjmane / Wen Xuan Lim
+2020,8,MLUYR,67CT2,06747J350,
+2020,8,MLWCR,67LK3,06747J335,
+2020,8,MLWCV,39HW6,40438J338,Youssef Boujemaoui / Thomas Eshaghi
+2020,8,MLWCZ,30PT7,06417R468,
+2020,8,MLWCP,28II4,06747J343,
+2020,8,MLWCW,67LJ3,06747J491,Charles Wright
+2020,8,MLOUM,67LJ2,09710C659,Tanner Di Lello
+2020,8,MLWCM,67LK4,40438J320,Youssef Boujemaoui / Thomas Eshaghi
+2020,8,MLWDA,30PM1,22550J684,Jorge Saba
+2020,9,MLOUS,67EQ2,09710C717,Tanner Di Lello
+2020,9,MLUYZ,28IJ2,13607H656,Simon Torjmane / Wen Xuan Lim
+2020,9,MLUZH,39HX7,06747K787,Mickael Slomka
+2020,9,MLWDL,67LM1,06417R427,Charles Wright
+2020,9,MLWDW,67LN7,06417R385,Tanner Di Lello
+2020,9,MLWDH,67LM2,40438G839,Charles Wright
+2020,9,MLUZG,67LN6,06417R393,Tanner Di Lello
+2020,9,MLUZD,67LL4,06417R443,Tanner Di Lello
+2020,9,MLUZK,67LN3,13607H649,Mickael Slomka
+2020,9,MLWDK,39HX0,891160392,Pierre-Alexandre Des Mazis
+2020,9,MLWDC,67LL3,40438G847,Charles Wright
+2020,9,MLWDP,30PZ0,22550J650,Jorge Saba
+2020,9,MLWDF,39HW9,22550J668,Pierre-Alexandre Des Mazis
+2020,9,MLWDY,67LO1,09710C741,Pierre-Alexandre Des Mazis
+2020,9,MLWDM,28AO6,22550M109,Charles Wright
+2020,9,MLUZM,00A86,78014T866,Simon Torjmane / Wen Xuan Lim
+2020,9,MLUZE,67LN5,40438Q845,Tanner Di Lello
+2020,9,MLUZC,67LM7,40438Q407,Tanner Di Lello
+2020,9,MLUZI,67DT6,06747K837,Tanner Di Lello
+2020,9,MLWDJ,67DM2,06747K886,Charles Wright
+2020,9,MLWDD,67LM6,22550J643,Pierre-Alexandre Des Mazis
+2020,9,MLWDE,67DQ4,78014T874,Charles Wright
+2020,9,MLWDS,08V44,40438Q837,Tanner Di Lello
+2020,9,MLWDU,08V43,06747K555,Simon Torjmane / Wen Xuan Lim
+2020,9,MLUZJ,67DI8,13607H672,Tanner Di Lello
+2020,9,MLUZA,49C33,13607H664,Tanner Di Lello
+2020,9,MLWDI,67LL2,06417R435,Charles Wright
+2020,9,MLWDG,28II8,78014T882,Simon Torjmane / Wen Xuan Lim
+2020,9,MLWDN,67DM4,891160418,Charles Wright
+2020,9,MLUZB,31IA5,40438J114,Tanner Di Lello
+2020,9,MLOUQ,67LL1,09710C709,Tanner Di Lello
+2020,9,MLWDV,39HY3,06747K530,Simon Torjmane / Wen Xuan Lim
+2020,9,MLWDX,67LO0,09710C733,Charles Wright
+2020,9,MLWDO,30PW5,78014T809,Charles Wright
+2020,9,MLWDR,38XS8,06417R419,Jorge Saba
+2020,10,MLVAG,28IJ7,13607HDX7,Tanner Di Lello
+2020,10,MLUZZ,67LO8,06417R344,Mickael Slomka
+2020,10,MLVAN,67LP1,13607H615,Tanner Di Lello
+2020,10,MLUZY,67LP9,13607H565,Tanner Di Lello
+2020,10,MLWEQ,49DW7,891160368,Nate Boroff
+2020,10,MLWES,67LP8,13607H573,Tanner Di Lello
+2020,10,MLOUU,67LP7,09710C782,Tanner Di Lello
+2020,10,MLUZW,67EL1,13607H623,Tanner Di Lello
+2020,10,MLWEN,67LP0,891160376,Charles Wright
+2020,10,MLUZV,31IC3,06417R377,Tanner Di Lello
+2020,10,MLWEW,67EX7,13607H557,Charles Wright
+2020,10,MLWEA,30QG6,09710C766,Tanner Di Lello
+2020,10,MLWEO,30QK0,78014T858,Jorge Saba
+2020,10,MLWEM,39HY4,13607V101,Pierre-Alexandre Des Mazis
+2020,10,MLUZU,67EX1,13607H599,Tanner Di Lello
+2020,10,MLWEK,67EU4,06417R286,Charles Wright
+2020,10,MLVFW,49AU2,13607V309,Simon Torjmane / Wen Xuan Lim
+2020,10,MLVGA,67LQ1,06417R252,Tanner Di Lello
+2020,10,MLWEJ,39HY7,891160350,Pierre-Alexandre Des Mazis
+2020,10,MLWEI,67EX3,891160343,Charles Wright
+2020,10,MLWEL,30QL7,78014T817,Nate Boroff
+2020,10,MLWER,13EW7,13607V200,Simon Torjmane / Wen Xuan Lim
+2020,10,MLWEH,67LP6,06417R278,Charles Wright
+2020,10,MLWEV,67LQ2,06417R245,Tanner Di Lello
+2020,10,MLWEG,67LP5,13607H581,Charles Wright
+2020,10,MLWEU,28IJ7,06747K415,Simon Torjmane / Wen Xuan Lim
+2020,10,MLWEF,21BK2,06417R310,Charles Wright
+2020,10,MLUZT,39HY6,06417R336,Mickael Slomka
+2020,10,MLWEE,67EM3,06417R328,Charles Wright
+2020,10,MLOUV,67LP3,09710C774,Tanner Di Lello
+2020,10,MLWED,67LP2,78014T825,Pierre-Alexandre Des Mazis
+2020,10,MLUZR,67LQ0,06417R260,Tanner Di Lello
+2020,10,MLUZS,67LO7,06417R369,Tanner Di Lello
+2020,10,MLVGW,73DE3,78014T775,Simon Torjmane / Wen Xuan Lim
+2020,10,MLUZQ,49DV0,06417R351,Tanner Di Lello
+2020,10,MLWEB,67LO9,78014T833,Charles Wright
+2020,10,MLWEC,73KQ2,13607H631,Jorge Saba
+2020,11,UHAAF,8Y0H1,05573C398,Tanner Di Lello
+2020,11,MLWFL,21BK7,09710C790,Charles Wright
+2020,11,MLOUX,67LR3,09710C816,Tanner Di Lello
+2020,11,MLVEM,49JH2,06747K159,Tanner Di Lello
+2020,11,MLWFK,73KQ4,06747K142,Jorge Saba
+2020,11,MLWFM,30QU2,40438Q688,Jorge Saba
+2020,11,MLOUW,67LR5,09710C808,Tanner Di Lello
+2020,11,MLVET,67LS2,06747L850,Tanner Di Lello
+2020,11,MLVEE,67LQ8,06747K183,Tanner Di Lello
+2020,11,MLVED,28IK2,22550J619,Simon Torjmane / Wen Xuan Lim
+2020,11,MLWFJ,67LR9,40438Q712,Charles Wright
+2020,11,MLVFD,14DF4,40438Q548,Simon Torjmane / Wen Xuan Lim
+2020,11,MLOUY,67LQ7,06417R237,Tanner Di Lello
+2020,11,MLVEC,49FY6,40438Q647,Tanner Di Lello
+2020,11,MLWFG,67EZ5,40438Q639,Charles Wright
+2020,11,MLWFH,49F13,40438Q613,Nate Boroff
+2020,11,MLWFF,67EY5,40438Q597,Charles Wright
+2020,11,MLWFI,30QU3,40438Q589,Charles Wright
+2020,11,MLVEN,67LR0,06747L306,Tanner Di Lello
+2020,11,MLVES,30Q00,06747L603,Tanner Di Lello
+2020,11,MLVDE,67EY2,06747L405,Tanner Di Lello
+2020,11,MLWFE,39HY9,40438Q621,Pierre-Alexandre Des Mazis
+2020,11,MLWFD,39HY8,40438Q571,Pierre-Alexandre Des Mazis
+2020,11,MLVGC,67LS1,06747L876,Tanner Di Lello
+2020,11,MLVGB,67LR2,06747K126,Tanner Di Lello
+2020,11,MLVGE,67EY8,40438G789,Tanner Di Lello
+2020,11,MLWFC,67LR6,40438Q654,Charles Wright
+2020,11,MLWFB,67LR1,22550J593,Pierre-Alexandre Des Mazis
+2020,11,MLVFZ,67LR4,22550Y103,Mickael Slomka
+2020,11,MLWFA,67LS0,06747L504,Tanner Di Lello
+2020,11,MLVFY,31ID6,06747L207,Tanner Di Lello
+2020,11,MLWFO,67LS3,09710C832,Youssef Boujemaoui / Thomas Eshaghi
+2020,11,MLWEZ,67LR7,06747K118,Charles Wright
+2020,11,MLWFN,67LS4,09710C824,Charles Wright
+2020,11,MLWEY,67EX9,22550J627,Charles Wright
+2020,11,MLWEX,67LQ9,06747K191,Charles Wright
+2020,12,MLOVC,67LU2 ,09710C865,Tanner Di Lello
+2020,12,MLOVA,67LT2,09710C857,Tanner Di Lello
+2020,12,MLXAA,28IK4,06417R179,Simon Torjmane / Wen Xuan Lim
+2020,12,MLXAB,67LT7,40438Q423,Tanner Di Lello
+2020,12,MLWGF,67EZ9,13607V705,Charles Wright
+2020,12,MLWGE,21BK8,06747L736,Charles Wright
+2020,12,MLXAP,21BL2,78014T726,Simon Torjmane / Wen Xuan Lim
+2020,12,MLXAH,39H03,13607H540,Mickael Slomka
+2020,12,MLWGC,39H04,06417R211,Pierre-Alexandre Des Mazis
+2020,12,MLXAJ,67E10,40438Q373,Tanner Di Lello
+2020,12,MLXAS,67E92,06417R146,Tanner Di Lello
+2020,12,MLXAN,30Q73,06417R153,Tanner Di Lello
+2020,12,MLXAM,67LU0,13607V804,Mickael Slomka
+2020,12,MLXAR,28CM7,09710C881,Simon Torjmane / Wen Xuan Lim
+2020,12,MLWGA,67LT5,06417R161,Pierre-Alexandre Des Mazis
+2020,12,MLWGB,49JK8,40438Q381,Charles Wright
+2020,12,MLXAG,67LS7,06747L744,Tanner Di Lello
+2020,12,MLXAT,67LV0,06417R138,Mickael Slomka
+2020,12,MLXAE,31ID7,13607V408,Tanner Di Lello
+2020,12,MLWFZ,39H05,06747L694,Simon Torjmane / Wen Xuan Lim
+2020,12,MLXAK,67E07,13607V606,Tanner Di Lello
+2020,12,MLXAQ,30RB5,09710C873,Simon Torjmane / Wen Xuan Lim
+2020,12,MLWFW,67E18,891160327,Charles Wright
+2020,12,MLWGG,38KI7,40438Q316,Evan Levine
+2020,12,MLWFX,30Q28,13607V507,Nate Boroff
+2020,12,MLWFV,67LS9,891160335,Charles Wright
+2020,12,MLOUZ,67LS8,09710C840,Tanner Di Lello
+2020,12,MLWFU,39H02,06417R195,Mickael Slomka
+2020,12,MLWFT,67E15,78014T742,Charles Wright
+2020,12,MLXAD,67LT9,78014T734,Pierre-Alexandre Des Mazis
+2020,12,MLWFR,67LT8,40438Q399,Charles Wright
+2020,12,MLXAF,67LT3,06747L728,Tanner Di Lello
+2020,12,MLWFS,67LT4,06747L710,Charles Wright
+2020,12,MLWFP,67LT6,40438Q415,Charles Wright
+2020,12,MLWFQ,30Q27,06417R187,Jorge Saba
+2020,12,UHAAG,8Y0J1,05573C380,Tanner Di Lello

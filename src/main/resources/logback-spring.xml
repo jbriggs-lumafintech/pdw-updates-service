@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <property name="LOGS" value="./logs"/>
+    <timestamp key="time" datePattern="yyyyMMdd.mmss"/>
+    <appender name="Console"
+              class="ch.qos.logback.core.ConsoleAppender">
+        <layout class="ch.qos.logback.classic.PatternLayout">
+            <Pattern>
+                %black(%d{ISO8601}) %highlight(%-5level) [%blue(%t)] %yellow(%C{1.}): %msg%n%throwable
+            </Pattern>
+        </layout>
+    </appender>
+    <appender name="File" class="ch.qos.logback.core.FileAppender">
+        <file>${LOGS}/pdw-updates-service-${time}.log</file>
+        <encoder>
+            <pattern>%-4relative %d{ISO8601} [%thread] %-5level %logger{35} - %msg%n</pattern>
+        </encoder>
+    </appender>
+    <logger name="com.luma.boston.pdw.updates.service" level="INFO">
+        <appender-ref ref="File"/>
+        <appender-ref ref="Console"/>
+    </logger>
+</configuration>

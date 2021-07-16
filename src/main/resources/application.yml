@@ -55,7 +55,7 @@ hystrix:
       execution:
         isolation:
           thread:
-            timeoutInMilliseconds: 10000
+            timeoutInMilliseconds: 60000
 ribbon:
   eureka:
     enabled: false
@@ -70,13 +70,12 @@ logging:
 
 # self-explanatory
 rederive-pdw-products:
-  true
+  false
 # set to true if pulling from CSV
-#pull-from-file:
-#  false
+pull-from-file: true
 # file to be parsed, includes products to update
-#relative-csv-file:
-#  path: 2021-04-01-prod-updates.csv
+relative-csv-file:
+  path: 2021-07-14-prod-updates.csv
 ---
 spring:
   profiles: ide

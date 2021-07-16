@@ -19,7 +19,7 @@
 		<dependency>
 			<groupId>com.luma</groupId>
 			<artifactId>luma-product-api</artifactId>
-			<version>1.86.0</version>
+			<version>1.95.1</version>
 		</dependency>
 		<dependency>
 			<groupId>com.luma.boston</groupId>
@@ -35,6 +35,12 @@
 			<groupId>com.luma.boston</groupId>
 			<artifactId>luma-pdw</artifactId>
 			<version>1.9.0</version>
+			<exclusions>
+				<exclusion>
+					<groupId>com.luma</groupId>
+					<artifactId>luma-product-api</artifactId>
+				</exclusion>
+			</exclusions>
 		</dependency>
 		<!--	Service Functionality	-->
 		<dependency>

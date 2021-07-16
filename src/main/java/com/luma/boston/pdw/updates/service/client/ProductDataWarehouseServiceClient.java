@@ -1,5 +1,6 @@
 package com.luma.boston.pdw.updates.service.client;
 
+import com.luma.boston.pdw.updates.service.client.fallback.ProductDataWarehouseServiceClientFallbackFactory;
 import com.luma.data.model.product.ProductDate;
 import com.luma.pdw.model.CanonicalProduct;
 import com.luma.pdw.model.SearchCriteria;
@@ -9,7 +10,6 @@ import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.format.annotation.DateTimeFormat;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -21,14 +21,14 @@ import java.time.LocalDate;
 import java.util.Collection;
 import java.util.List;
 
-@FeignClient(name = "pdw-service", url = "${pdw-service.url}", configuration = InterServiceFeignConfig.class)
+@FeignClient(name = "pdw-service", url = "${pdw-service.url}", configuration = InterServiceFeignConfig.class, fallbackFactory = ProductDataWarehouseServiceClientFallbackFactory.class)
 public interface ProductDataWarehouseServiceClient {
 
     @GetMapping(value = "/products")
     Page<CanonicalProduct> getProducts(Pageable pageable);
 
     @PutMapping(value = "/products")
-    ResponseEntity<CanonicalProduct> updateProduct(@RequestBody CanonicalProduct productUpdate);
+    CanonicalProduct updateProduct(@RequestBody CanonicalProduct productUpdate);
 
     @PostMapping("/products/v2/searchCriteria")
     Page<CanonicalProduct> getProductsBySearchCriteria(@RequestBody SearchOptions searchOptions,
